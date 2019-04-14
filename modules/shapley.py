@@ -1,5 +1,5 @@
 """
-Shapley v003
+Shapley v004
 Calculate the Shapley values
 
 Heavily inspired by: https://medium.com/data-from-the-trenches/marketing-attribution-e7fa7ae9e919
