@@ -129,7 +129,7 @@ def test_raise_alert_when_duplicate_participants_in_one_coalition():
     }
 
     with pytest.raises(ValueError):
-        s = Shapley(coalition_values=double_participant_in_dataset)
+        Shapley(coalition_values=double_participant_in_dataset)
 
 
 # Todo: Test non-numerical values
