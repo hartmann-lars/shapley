@@ -1,4 +1,5 @@
 import pandas
+import pytest
 from modules.shapley import Shapley
 
 
@@ -115,6 +116,21 @@ def test_calculate_expected_shapley_values_spaces_in_coalitions():
         'SEM': 5.0,
         'Organic': 5.0
     }
+
+
+def test_raise_alert_when_duplicate_participants_in_one_coalition():
+    """
+    Test an error is raised when a duplicate particant is found in a coalition
+    """
+    double_participant_in_dataset = {
+        'SEM': 1,
+        'Organic': 1,
+        'SEM,SEM': 8
+    }
+
+    with pytest.raises(ValueError):
+        s = Shapley(coalition_values=double_participant_in_dataset)
+
 
 # Todo: Test non-numerical values
 # Todo: Add case insenstive participant mapping

@@ -174,7 +174,15 @@ class Shapley:
         ordered_participants_coalition_values = {}
         for coalition in coalition_values:
             participants = []
-            for item in coalition.split(','):
+            items = coalition.split(',')
+
+            # Ensure each coalition contains unique participants
+            if not self.__list_items_are_unique(items):
+                raise ValueError(
+                    'Found coalitions with non-unique participants. Please review the input dataset.'
+                )
+
+            for item in items:
                 participants.append(item.strip())
 
             ordered_string = ','.join(sorted(participants))
@@ -182,3 +190,24 @@ class Shapley:
             ordered_participants_coalition_values[ordered_string] = coalition_values[coalition]
 
         return ordered_participants_coalition_values
+
+    def __list_items_are_unique(self, list_items):
+        """
+        Check if the input items length matches the unique items found
+
+        Arguments:
+            list_items {list} -- [The input items]
+
+        Returns:
+            [bool] -- [Whether or not the list contained unique items]
+        """
+
+        if len(list_items) == 1:
+            return True
+
+        unique_items = {}
+
+        for item in list_items:
+            unique_items[item] = item
+
+        return len(list_items) == len(unique_items)
