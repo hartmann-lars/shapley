@@ -11,8 +11,9 @@ from time import time
 
 DATASET_SIMPLE = pandas.read_csv('./test_datasets/simple.csv', sep=',')
 DATASET_MEDIUM = pandas.read_csv('./test_datasets/medium.csv', sep=',')
+DATASET_BIG = pandas.read_csv('./test_datasets/big.csv', sep=',')
 
-ITERATIONS = 1000
+ITERATIONS = 100
 TIMING_PRECISION = 3
 
 
@@ -71,3 +72,5 @@ if __name__ == "__main__":
     average_time_simple = run_sequences(DATASET_SIMPLE, 'Simple Dataset')
 
     average_time_medium = run_sequences(DATASET_MEDIUM, 'Medium Dataset')
+
+    average_time_big = run_sequences(DATASET_BIG, 'Big Dataset')

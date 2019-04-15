@@ -1,0 +1,2048 @@
+channels,conversions
+Display,61
+Referral,27
+Paid Social,33
+Unpaid Social,61
+Brand Marketing,53
+Email,48
+Other,74
+Youtube,35
+SEM,98
+SEO,92
+Direct,75
+"Display,Referral",51
+"Display,Paid Social",34
+"Display,Unpaid Social",40
+"Brand Marketing,Display",85
+"Display,Email",82
+"Display,Other",56
+"Display,Youtube",32
+"Display,SEM",54
+"Display,SEO",15
+"Direct,Display",36
+"Paid Social,Referral",2
+"Referral,Unpaid Social",5
+"Brand Marketing,Referral",95
+"Email,Referral",34
+"Other,Referral",84
+"Referral,Youtube",57
+"Referral,SEM",99
+"Referral,SEO",90
+"Direct,Referral",38
+"Paid Social,Unpaid Social",59
+"Brand Marketing,Paid Social",21
+"Email,Paid Social",18
+"Other,Paid Social",4
+"Paid Social,Youtube",5
+"Paid Social,SEM",9
+"Paid Social,SEO",59
+"Direct,Paid Social",74
+"Brand Marketing,Unpaid Social",76
+"Email,Unpaid Social",61
+"Other,Unpaid Social",25
+"Unpaid Social,Youtube",78
+"SEM,Unpaid Social",72
+"SEO,Unpaid Social",77
+"Direct,Unpaid Social",34
+"Brand Marketing,Email",91
+"Brand Marketing,Other",79
+"Brand Marketing,Youtube",25
+"Brand Marketing,SEM",41
+"Brand Marketing,SEO",18
+"Brand Marketing,Direct",94
+"Email,Other",51
+"Email,Youtube",56
+"Email,SEM",32
+"Email,SEO",4
+"Direct,Email",80
+"Other,Youtube",82
+"Other,SEM",27
+"Other,SEO",21
+"Direct,Other",8
+"SEM,Youtube",96
+"SEO,Youtube",86
+"Direct,Youtube",4
+"SEM,SEO",82
+"Direct,SEM",14
+"Direct,SEO",66
+"Display,Paid Social,Referral",15
+"Display,Referral,Unpaid Social",70
+"Brand Marketing,Display,Referral",44
+"Display,Email,Referral",96
+"Display,Other,Referral",13
+"Display,Referral,Youtube",41
+"Display,Referral,SEM",63
+"Display,Referral,SEO",48
+"Direct,Display,Referral",78
+"Display,Paid Social,Unpaid Social",48
+"Brand Marketing,Display,Paid Social",70
+"Display,Email,Paid Social",55
+"Display,Other,Paid Social",74
+"Display,Paid Social,Youtube",55
+"Display,Paid Social,SEM",36
+"Display,Paid Social,SEO",84
+"Direct,Display,Paid Social",29
+"Brand Marketing,Display,Unpaid Social",7
+"Display,Email,Unpaid Social",43
+"Display,Other,Unpaid Social",21
+"Display,Unpaid Social,Youtube",14
+"Display,SEM,Unpaid Social",98
+"Display,SEO,Unpaid Social",72
+"Direct,Display,Unpaid Social",28
+"Brand Marketing,Display,Email",41
+"Brand Marketing,Display,Other",16
+"Brand Marketing,Display,Youtube",37
+"Brand Marketing,Display,SEM",33
+"Brand Marketing,Display,SEO",11
+"Brand Marketing,Direct,Display",51
+"Display,Email,Other",21
+"Display,Email,Youtube",89
+"Display,Email,SEM",87
+"Display,Email,SEO",43
+"Direct,Display,Email",53
+"Display,Other,Youtube",25
+"Display,Other,SEM",81
+"Display,Other,SEO",6
+"Direct,Display,Other",36
+"Display,SEM,Youtube",10
+"Display,SEO,Youtube",14
+"Direct,Display,Youtube",53
+"Display,SEM,SEO",55
+"Direct,Display,SEM",79
+"Direct,Display,SEO",53
+"Paid Social,Referral,Unpaid Social",67
+"Brand Marketing,Paid Social,Referral",36
+"Email,Paid Social,Referral",56
+"Other,Paid Social,Referral",63
+"Paid Social,Referral,Youtube",7
+"Paid Social,Referral,SEM",61
+"Paid Social,Referral,SEO",56
+"Direct,Paid Social,Referral",65
+"Brand Marketing,Referral,Unpaid Social",46
+"Email,Referral,Unpaid Social",98
+"Other,Referral,Unpaid Social",26
+"Referral,Unpaid Social,Youtube",15
+"Referral,SEM,Unpaid Social",85
+"Referral,SEO,Unpaid Social",60
+"Direct,Referral,Unpaid Social",8
+"Brand Marketing,Email,Referral",93
+"Brand Marketing,Other,Referral",26
+"Brand Marketing,Referral,Youtube",33
+"Brand Marketing,Referral,SEM",33
+"Brand Marketing,Referral,SEO",99
+"Brand Marketing,Direct,Referral",70
+"Email,Other,Referral",66
+"Email,Referral,Youtube",54
+"Email,Referral,SEM",3
+"Email,Referral,SEO",81
+"Direct,Email,Referral",2
+"Other,Referral,Youtube",5
+"Other,Referral,SEM",94
+"Other,Referral,SEO",38
+"Direct,Other,Referral",57
+"Referral,SEM,Youtube",21
+"Referral,SEO,Youtube",40
+"Direct,Referral,Youtube",65
+"Referral,SEM,SEO",31
+"Direct,Referral,SEM",50
+"Direct,Referral,SEO",84
+"Brand Marketing,Paid Social,Unpaid Social",80
+"Email,Paid Social,Unpaid Social",14
+"Other,Paid Social,Unpaid Social",47
+"Paid Social,Unpaid Social,Youtube",22
+"Paid Social,SEM,Unpaid Social",17
+"Paid Social,SEO,Unpaid Social",13
+"Direct,Paid Social,Unpaid Social",78
+"Brand Marketing,Email,Paid Social",47
+"Brand Marketing,Other,Paid Social",2
+"Brand Marketing,Paid Social,Youtube",96
+"Brand Marketing,Paid Social,SEM",60
+"Brand Marketing,Paid Social,SEO",16
+"Brand Marketing,Direct,Paid Social",22
+"Email,Other,Paid Social",67
+"Email,Paid Social,Youtube",92
+"Email,Paid Social,SEM",53
+"Email,Paid Social,SEO",82
+"Direct,Email,Paid Social",36
+"Other,Paid Social,Youtube",52
+"Other,Paid Social,SEM",86
+"Other,Paid Social,SEO",22
+"Direct,Other,Paid Social",54
+"Paid Social,SEM,Youtube",0
+"Paid Social,SEO,Youtube",97
+"Direct,Paid Social,Youtube",4
+"Paid Social,SEM,SEO",56
+"Direct,Paid Social,SEM",77
+"Direct,Paid Social,SEO",86
+"Brand Marketing,Email,Unpaid Social",57
+"Brand Marketing,Other,Unpaid Social",85
+"Brand Marketing,Unpaid Social,Youtube",85
+"Brand Marketing,SEM,Unpaid Social",78
+"Brand Marketing,SEO,Unpaid Social",79
+"Brand Marketing,Direct,Unpaid Social",51
+"Email,Other,Unpaid Social",96
+"Email,Unpaid Social,Youtube",54
+"Email,SEM,Unpaid Social",13
+"Email,SEO,Unpaid Social",56
+"Direct,Email,Unpaid Social",96
+"Other,Unpaid Social,Youtube",89
+"Other,SEM,Unpaid Social",8
+"Other,SEO,Unpaid Social",60
+"Direct,Other,Unpaid Social",1
+"SEM,Unpaid Social,Youtube",77
+"SEO,Unpaid Social,Youtube",33
+"Direct,Unpaid Social,Youtube",4
+"SEM,SEO,Unpaid Social",97
+"Direct,SEM,Unpaid Social",80
+"Direct,SEO,Unpaid Social",63
+"Brand Marketing,Email,Other",42
+"Brand Marketing,Email,Youtube",67
+"Brand Marketing,Email,SEM",62
+"Brand Marketing,Email,SEO",6
+"Brand Marketing,Direct,Email",78
+"Brand Marketing,Other,Youtube",62
+"Brand Marketing,Other,SEM",64
+"Brand Marketing,Other,SEO",56
+"Brand Marketing,Direct,Other",18
+"Brand Marketing,SEM,Youtube",93
+"Brand Marketing,SEO,Youtube",29
+"Brand Marketing,Direct,Youtube",80
+"Brand Marketing,SEM,SEO",19
+"Brand Marketing,Direct,SEM",42
+"Brand Marketing,Direct,SEO",44
+"Email,Other,Youtube",50
+"Email,Other,SEM",91
+"Email,Other,SEO",16
+"Direct,Email,Other",18
+"Email,SEM,Youtube",86
+"Email,SEO,Youtube",68
+"Direct,Email,Youtube",88
+"Email,SEM,SEO",94
+"Direct,Email,SEM",19
+"Direct,Email,SEO",87
+"Other,SEM,Youtube",19
+"Other,SEO,Youtube",52
+"Direct,Other,Youtube",51
+"Other,SEM,SEO",17
+"Direct,Other,SEM",61
+"Direct,Other,SEO",36
+"SEM,SEO,Youtube",36
+"Direct,SEM,Youtube",17
+"Direct,SEO,Youtube",48
+"Direct,SEM,SEO",23
+"Display,Paid Social,Referral,Unpaid Social",78
+"Brand Marketing,Display,Paid Social,Referral",84
+"Display,Email,Paid Social,Referral",31
+"Display,Other,Paid Social,Referral",34
+"Display,Paid Social,Referral,Youtube",79
+"Display,Paid Social,Referral,SEM",63
+"Display,Paid Social,Referral,SEO",11
+"Direct,Display,Paid Social,Referral",41
+"Brand Marketing,Display,Referral,Unpaid Social",75
+"Display,Email,Referral,Unpaid Social",50
+"Display,Other,Referral,Unpaid Social",47
+"Display,Referral,Unpaid Social,Youtube",62
+"Display,Referral,SEM,Unpaid Social",58
+"Display,Referral,SEO,Unpaid Social",62
+"Direct,Display,Referral,Unpaid Social",6
+"Brand Marketing,Display,Email,Referral",21
+"Brand Marketing,Display,Other,Referral",32
+"Brand Marketing,Display,Referral,Youtube",64
+"Brand Marketing,Display,Referral,SEM",17
+"Brand Marketing,Display,Referral,SEO",31
+"Brand Marketing,Direct,Display,Referral",27
+"Display,Email,Other,Referral",10
+"Display,Email,Referral,Youtube",42
+"Display,Email,Referral,SEM",81
+"Display,Email,Referral,SEO",71
+"Direct,Display,Email,Referral",42
+"Display,Other,Referral,Youtube",44
+"Display,Other,Referral,SEM",78
+"Display,Other,Referral,SEO",27
+"Direct,Display,Other,Referral",43
+"Display,Referral,SEM,Youtube",10
+"Display,Referral,SEO,Youtube",0
+"Direct,Display,Referral,Youtube",11
+"Display,Referral,SEM,SEO",61
+"Direct,Display,Referral,SEM",57
+"Direct,Display,Referral,SEO",20
+"Brand Marketing,Display,Paid Social,Unpaid Social",54
+"Display,Email,Paid Social,Unpaid Social",81
+"Display,Other,Paid Social,Unpaid Social",82
+"Display,Paid Social,Unpaid Social,Youtube",63
+"Display,Paid Social,SEM,Unpaid Social",18
+"Display,Paid Social,SEO,Unpaid Social",98
+"Direct,Display,Paid Social,Unpaid Social",97
+"Brand Marketing,Display,Email,Paid Social",98
+"Brand Marketing,Display,Other,Paid Social",13
+"Brand Marketing,Display,Paid Social,Youtube",51
+"Brand Marketing,Display,Paid Social,SEM",98
+"Brand Marketing,Display,Paid Social,SEO",54
+"Brand Marketing,Direct,Display,Paid Social",54
+"Display,Email,Other,Paid Social",19
+"Display,Email,Paid Social,Youtube",10
+"Display,Email,Paid Social,SEM",45
+"Display,Email,Paid Social,SEO",23
+"Direct,Display,Email,Paid Social",70
+"Display,Other,Paid Social,Youtube",17
+"Display,Other,Paid Social,SEM",77
+"Display,Other,Paid Social,SEO",6
+"Direct,Display,Other,Paid Social",65
+"Display,Paid Social,SEM,Youtube",6
+"Display,Paid Social,SEO,Youtube",43
+"Direct,Display,Paid Social,Youtube",8
+"Display,Paid Social,SEM,SEO",89
+"Direct,Display,Paid Social,SEM",8
+"Direct,Display,Paid Social,SEO",9
+"Brand Marketing,Display,Email,Unpaid Social",22
+"Brand Marketing,Display,Other,Unpaid Social",48
+"Brand Marketing,Display,Unpaid Social,Youtube",34
+"Brand Marketing,Display,SEM,Unpaid Social",53
+"Brand Marketing,Display,SEO,Unpaid Social",20
+"Brand Marketing,Direct,Display,Unpaid Social",50
+"Display,Email,Other,Unpaid Social",15
+"Display,Email,Unpaid Social,Youtube",67
+"Display,Email,SEM,Unpaid Social",64
+"Display,Email,SEO,Unpaid Social",78
+"Direct,Display,Email,Unpaid Social",5
+"Display,Other,Unpaid Social,Youtube",73
+"Display,Other,SEM,Unpaid Social",6
+"Display,Other,SEO,Unpaid Social",2
+"Direct,Display,Other,Unpaid Social",45
+"Display,SEM,Unpaid Social,Youtube",0
+"Display,SEO,Unpaid Social,Youtube",63
+"Direct,Display,Unpaid Social,Youtube",20
+"Display,SEM,SEO,Unpaid Social",67
+"Direct,Display,SEM,Unpaid Social",60
+"Direct,Display,SEO,Unpaid Social",36
+"Brand Marketing,Display,Email,Other",61
+"Brand Marketing,Display,Email,Youtube",51
+"Brand Marketing,Display,Email,SEM",27
+"Brand Marketing,Display,Email,SEO",22
+"Brand Marketing,Direct,Display,Email",5
+"Brand Marketing,Display,Other,Youtube",47
+"Brand Marketing,Display,Other,SEM",77
+"Brand Marketing,Display,Other,SEO",96
+"Brand Marketing,Direct,Display,Other",76
+"Brand Marketing,Display,SEM,Youtube",37
+"Brand Marketing,Display,SEO,Youtube",27
+"Brand Marketing,Direct,Display,Youtube",79
+"Brand Marketing,Display,SEM,SEO",17
+"Brand Marketing,Direct,Display,SEM",54
+"Brand Marketing,Direct,Display,SEO",42
+"Display,Email,Other,Youtube",74
+"Display,Email,Other,SEM",67
+"Display,Email,Other,SEO",74
+"Direct,Display,Email,Other",12
+"Display,Email,SEM,Youtube",35
+"Display,Email,SEO,Youtube",11
+"Direct,Display,Email,Youtube",83
+"Display,Email,SEM,SEO",65
+"Direct,Display,Email,SEM",18
+"Direct,Display,Email,SEO",44
+"Display,Other,SEM,Youtube",24
+"Display,Other,SEO,Youtube",21
+"Direct,Display,Other,Youtube",14
+"Display,Other,SEM,SEO",20
+"Direct,Display,Other,SEM",74
+"Direct,Display,Other,SEO",97
+"Display,SEM,SEO,Youtube",90
+"Direct,Display,SEM,Youtube",85
+"Direct,Display,SEO,Youtube",34
+"Direct,Display,SEM,SEO",85
+"Brand Marketing,Paid Social,Referral,Unpaid Social",70
+"Email,Paid Social,Referral,Unpaid Social",17
+"Other,Paid Social,Referral,Unpaid Social",25
+"Paid Social,Referral,Unpaid Social,Youtube",9
+"Paid Social,Referral,SEM,Unpaid Social",22
+"Paid Social,Referral,SEO,Unpaid Social",44
+"Direct,Paid Social,Referral,Unpaid Social",55
+"Brand Marketing,Email,Paid Social,Referral",79
+"Brand Marketing,Other,Paid Social,Referral",90
+"Brand Marketing,Paid Social,Referral,Youtube",18
+"Brand Marketing,Paid Social,Referral,SEM",58
+"Brand Marketing,Paid Social,Referral,SEO",70
+"Brand Marketing,Direct,Paid Social,Referral",37
+"Email,Other,Paid Social,Referral",30
+"Email,Paid Social,Referral,Youtube",99
+"Email,Paid Social,Referral,SEM",97
+"Email,Paid Social,Referral,SEO",3
+"Direct,Email,Paid Social,Referral",60
+"Other,Paid Social,Referral,Youtube",90
+"Other,Paid Social,Referral,SEM",41
+"Other,Paid Social,Referral,SEO",73
+"Direct,Other,Paid Social,Referral",92
+"Paid Social,Referral,SEM,Youtube",36
+"Paid Social,Referral,SEO,Youtube",61
+"Direct,Paid Social,Referral,Youtube",1
+"Paid Social,Referral,SEM,SEO",33
+"Direct,Paid Social,Referral,SEM",92
+"Direct,Paid Social,Referral,SEO",92
+"Brand Marketing,Email,Referral,Unpaid Social",19
+"Brand Marketing,Other,Referral,Unpaid Social",83
+"Brand Marketing,Referral,Unpaid Social,Youtube",22
+"Brand Marketing,Referral,SEM,Unpaid Social",42
+"Brand Marketing,Referral,SEO,Unpaid Social",21
+"Brand Marketing,Direct,Referral,Unpaid Social",10
+"Email,Other,Referral,Unpaid Social",94
+"Email,Referral,Unpaid Social,Youtube",63
+"Email,Referral,SEM,Unpaid Social",53
+"Email,Referral,SEO,Unpaid Social",49
+"Direct,Email,Referral,Unpaid Social",81
+"Other,Referral,Unpaid Social,Youtube",57
+"Other,Referral,SEM,Unpaid Social",23
+"Other,Referral,SEO,Unpaid Social",58
+"Direct,Other,Referral,Unpaid Social",71
+"Referral,SEM,Unpaid Social,Youtube",84
+"Referral,SEO,Unpaid Social,Youtube",98
+"Direct,Referral,Unpaid Social,Youtube",73
+"Referral,SEM,SEO,Unpaid Social",1
+"Direct,Referral,SEM,Unpaid Social",17
+"Direct,Referral,SEO,Unpaid Social",69
+"Brand Marketing,Email,Other,Referral",42
+"Brand Marketing,Email,Referral,Youtube",53
+"Brand Marketing,Email,Referral,SEM",15
+"Brand Marketing,Email,Referral,SEO",54
+"Brand Marketing,Direct,Email,Referral",67
+"Brand Marketing,Other,Referral,Youtube",6
+"Brand Marketing,Other,Referral,SEM",12
+"Brand Marketing,Other,Referral,SEO",41
+"Brand Marketing,Direct,Other,Referral",0
+"Brand Marketing,Referral,SEM,Youtube",89
+"Brand Marketing,Referral,SEO,Youtube",43
+"Brand Marketing,Direct,Referral,Youtube",9
+"Brand Marketing,Referral,SEM,SEO",24
+"Brand Marketing,Direct,Referral,SEM",97
+"Brand Marketing,Direct,Referral,SEO",91
+"Email,Other,Referral,Youtube",13
+"Email,Other,Referral,SEM",97
+"Email,Other,Referral,SEO",15
+"Direct,Email,Other,Referral",28
+"Email,Referral,SEM,Youtube",17
+"Email,Referral,SEO,Youtube",1
+"Direct,Email,Referral,Youtube",48
+"Email,Referral,SEM,SEO",41
+"Direct,Email,Referral,SEM",70
+"Direct,Email,Referral,SEO",47
+"Other,Referral,SEM,Youtube",91
+"Other,Referral,SEO,Youtube",84
+"Direct,Other,Referral,Youtube",86
+"Other,Referral,SEM,SEO",48
+"Direct,Other,Referral,SEM",61
+"Direct,Other,Referral,SEO",58
+"Referral,SEM,SEO,Youtube",11
+"Direct,Referral,SEM,Youtube",38
+"Direct,Referral,SEO,Youtube",90
+"Direct,Referral,SEM,SEO",94
+"Brand Marketing,Email,Paid Social,Unpaid Social",19
+"Brand Marketing,Other,Paid Social,Unpaid Social",43
+"Brand Marketing,Paid Social,Unpaid Social,Youtube",39
+"Brand Marketing,Paid Social,SEM,Unpaid Social",70
+"Brand Marketing,Paid Social,SEO,Unpaid Social",26
+"Brand Marketing,Direct,Paid Social,Unpaid Social",44
+"Email,Other,Paid Social,Unpaid Social",2
+"Email,Paid Social,Unpaid Social,Youtube",88
+"Email,Paid Social,SEM,Unpaid Social",35
+"Email,Paid Social,SEO,Unpaid Social",8
+"Direct,Email,Paid Social,Unpaid Social",71
+"Other,Paid Social,Unpaid Social,Youtube",22
+"Other,Paid Social,SEM,Unpaid Social",31
+"Other,Paid Social,SEO,Unpaid Social",29
+"Direct,Other,Paid Social,Unpaid Social",30
+"Paid Social,SEM,Unpaid Social,Youtube",64
+"Paid Social,SEO,Unpaid Social,Youtube",95
+"Direct,Paid Social,Unpaid Social,Youtube",24
+"Paid Social,SEM,SEO,Unpaid Social",23
+"Direct,Paid Social,SEM,Unpaid Social",99
+"Direct,Paid Social,SEO,Unpaid Social",64
+"Brand Marketing,Email,Other,Paid Social",42
+"Brand Marketing,Email,Paid Social,Youtube",71
+"Brand Marketing,Email,Paid Social,SEM",44
+"Brand Marketing,Email,Paid Social,SEO",72
+"Brand Marketing,Direct,Email,Paid Social",65
+"Brand Marketing,Other,Paid Social,Youtube",37
+"Brand Marketing,Other,Paid Social,SEM",2
+"Brand Marketing,Other,Paid Social,SEO",39
+"Brand Marketing,Direct,Other,Paid Social",13
+"Brand Marketing,Paid Social,SEM,Youtube",26
+"Brand Marketing,Paid Social,SEO,Youtube",65
+"Brand Marketing,Direct,Paid Social,Youtube",32
+"Brand Marketing,Paid Social,SEM,SEO",95
+"Brand Marketing,Direct,Paid Social,SEM",40
+"Brand Marketing,Direct,Paid Social,SEO",56
+"Email,Other,Paid Social,Youtube",85
+"Email,Other,Paid Social,SEM",68
+"Email,Other,Paid Social,SEO",61
+"Direct,Email,Other,Paid Social",65
+"Email,Paid Social,SEM,Youtube",68
+"Email,Paid Social,SEO,Youtube",15
+"Direct,Email,Paid Social,Youtube",75
+"Email,Paid Social,SEM,SEO",91
+"Direct,Email,Paid Social,SEM",22
+"Direct,Email,Paid Social,SEO",91
+"Other,Paid Social,SEM,Youtube",43
+"Other,Paid Social,SEO,Youtube",27
+"Direct,Other,Paid Social,Youtube",48
+"Other,Paid Social,SEM,SEO",41
+"Direct,Other,Paid Social,SEM",73
+"Direct,Other,Paid Social,SEO",60
+"Paid Social,SEM,SEO,Youtube",2
+"Direct,Paid Social,SEM,Youtube",79
+"Direct,Paid Social,SEO,Youtube",31
+"Direct,Paid Social,SEM,SEO",87
+"Brand Marketing,Email,Other,Unpaid Social",41
+"Brand Marketing,Email,Unpaid Social,Youtube",31
+"Brand Marketing,Email,SEM,Unpaid Social",97
+"Brand Marketing,Email,SEO,Unpaid Social",86
+"Brand Marketing,Direct,Email,Unpaid Social",42
+"Brand Marketing,Other,Unpaid Social,Youtube",11
+"Brand Marketing,Other,SEM,Unpaid Social",90
+"Brand Marketing,Other,SEO,Unpaid Social",20
+"Brand Marketing,Direct,Other,Unpaid Social",86
+"Brand Marketing,SEM,Unpaid Social,Youtube",22
+"Brand Marketing,SEO,Unpaid Social,Youtube",42
+"Brand Marketing,Direct,Unpaid Social,Youtube",1
+"Brand Marketing,SEM,SEO,Unpaid Social",40
+"Brand Marketing,Direct,SEM,Unpaid Social",32
+"Brand Marketing,Direct,SEO,Unpaid Social",88
+"Email,Other,Unpaid Social,Youtube",21
+"Email,Other,SEM,Unpaid Social",54
+"Email,Other,SEO,Unpaid Social",69
+"Direct,Email,Other,Unpaid Social",4
+"Email,SEM,Unpaid Social,Youtube",34
+"Email,SEO,Unpaid Social,Youtube",94
+"Direct,Email,Unpaid Social,Youtube",0
+"Email,SEM,SEO,Unpaid Social",77
+"Direct,Email,SEM,Unpaid Social",70
+"Direct,Email,SEO,Unpaid Social",91
+"Other,SEM,Unpaid Social,Youtube",38
+"Other,SEO,Unpaid Social,Youtube",74
+"Direct,Other,Unpaid Social,Youtube",34
+"Other,SEM,SEO,Unpaid Social",50
+"Direct,Other,SEM,Unpaid Social",82
+"Direct,Other,SEO,Unpaid Social",26
+"SEM,SEO,Unpaid Social,Youtube",88
+"Direct,SEM,Unpaid Social,Youtube",76
+"Direct,SEO,Unpaid Social,Youtube",49
+"Direct,SEM,SEO,Unpaid Social",64
+"Brand Marketing,Email,Other,Youtube",21
+"Brand Marketing,Email,Other,SEM",7
+"Brand Marketing,Email,Other,SEO",40
+"Brand Marketing,Direct,Email,Other",50
+"Brand Marketing,Email,SEM,Youtube",47
+"Brand Marketing,Email,SEO,Youtube",21
+"Brand Marketing,Direct,Email,Youtube",14
+"Brand Marketing,Email,SEM,SEO",25
+"Brand Marketing,Direct,Email,SEM",74
+"Brand Marketing,Direct,Email,SEO",50
+"Brand Marketing,Other,SEM,Youtube",99
+"Brand Marketing,Other,SEO,Youtube",20
+"Brand Marketing,Direct,Other,Youtube",96
+"Brand Marketing,Other,SEM,SEO",81
+"Brand Marketing,Direct,Other,SEM",9
+"Brand Marketing,Direct,Other,SEO",65
+"Brand Marketing,SEM,SEO,Youtube",63
+"Brand Marketing,Direct,SEM,Youtube",84
+"Brand Marketing,Direct,SEO,Youtube",29
+"Brand Marketing,Direct,SEM,SEO",66
+"Email,Other,SEM,Youtube",62
+"Email,Other,SEO,Youtube",1
+"Direct,Email,Other,Youtube",58
+"Email,Other,SEM,SEO",55
+"Direct,Email,Other,SEM",26
+"Direct,Email,Other,SEO",94
+"Email,SEM,SEO,Youtube",6
+"Direct,Email,SEM,Youtube",47
+"Direct,Email,SEO,Youtube",49
+"Direct,Email,SEM,SEO",99
+"Other,SEM,SEO,Youtube",65
+"Direct,Other,SEM,Youtube",62
+"Direct,Other,SEO,Youtube",40
+"Direct,Other,SEM,SEO",86
+"Direct,SEM,SEO,Youtube",72
+"Brand Marketing,Display,Paid Social,Referral,Unpaid Social",80
+"Display,Email,Paid Social,Referral,Unpaid Social",94
+"Display,Other,Paid Social,Referral,Unpaid Social",22
+"Display,Paid Social,Referral,Unpaid Social,Youtube",78
+"Display,Paid Social,Referral,SEM,Unpaid Social",24
+"Display,Paid Social,Referral,SEO,Unpaid Social",72
+"Direct,Display,Paid Social,Referral,Unpaid Social",79
+"Brand Marketing,Display,Email,Paid Social,Referral",74
+"Brand Marketing,Display,Other,Paid Social,Referral",22
+"Brand Marketing,Display,Paid Social,Referral,Youtube",78
+"Brand Marketing,Display,Paid Social,Referral,SEM",48
+"Brand Marketing,Display,Paid Social,Referral,SEO",1
+"Brand Marketing,Direct,Display,Paid Social,Referral",7
+"Display,Email,Other,Paid Social,Referral",20
+"Display,Email,Paid Social,Referral,Youtube",52
+"Display,Email,Paid Social,Referral,SEM",41
+"Display,Email,Paid Social,Referral,SEO",40
+"Direct,Display,Email,Paid Social,Referral",74
+"Display,Other,Paid Social,Referral,Youtube",17
+"Display,Other,Paid Social,Referral,SEM",99
+"Display,Other,Paid Social,Referral,SEO",70
+"Direct,Display,Other,Paid Social,Referral",8
+"Display,Paid Social,Referral,SEM,Youtube",70
+"Display,Paid Social,Referral,SEO,Youtube",92
+"Direct,Display,Paid Social,Referral,Youtube",30
+"Display,Paid Social,Referral,SEM,SEO",43
+"Direct,Display,Paid Social,Referral,SEM",79
+"Direct,Display,Paid Social,Referral,SEO",74
+"Brand Marketing,Display,Email,Referral,Unpaid Social",28
+"Brand Marketing,Display,Other,Referral,Unpaid Social",50
+"Brand Marketing,Display,Referral,Unpaid Social,Youtube",50
+"Brand Marketing,Display,Referral,SEM,Unpaid Social",39
+"Brand Marketing,Display,Referral,SEO,Unpaid Social",14
+"Brand Marketing,Direct,Display,Referral,Unpaid Social",87
+"Display,Email,Other,Referral,Unpaid Social",12
+"Display,Email,Referral,Unpaid Social,Youtube",31
+"Display,Email,Referral,SEM,Unpaid Social",7
+"Display,Email,Referral,SEO,Unpaid Social",14
+"Direct,Display,Email,Referral,Unpaid Social",56
+"Display,Other,Referral,Unpaid Social,Youtube",2
+"Display,Other,Referral,SEM,Unpaid Social",58
+"Display,Other,Referral,SEO,Unpaid Social",78
+"Direct,Display,Other,Referral,Unpaid Social",46
+"Display,Referral,SEM,Unpaid Social,Youtube",4
+"Display,Referral,SEO,Unpaid Social,Youtube",34
+"Direct,Display,Referral,Unpaid Social,Youtube",23
+"Display,Referral,SEM,SEO,Unpaid Social",74
+"Direct,Display,Referral,SEM,Unpaid Social",59
+"Direct,Display,Referral,SEO,Unpaid Social",27
+"Brand Marketing,Display,Email,Other,Referral",88
+"Brand Marketing,Display,Email,Referral,Youtube",70
+"Brand Marketing,Display,Email,Referral,SEM",61
+"Brand Marketing,Display,Email,Referral,SEO",70
+"Brand Marketing,Direct,Display,Email,Referral",92
+"Brand Marketing,Display,Other,Referral,Youtube",33
+"Brand Marketing,Display,Other,Referral,SEM",86
+"Brand Marketing,Display,Other,Referral,SEO",69
+"Brand Marketing,Direct,Display,Other,Referral",48
+"Brand Marketing,Display,Referral,SEM,Youtube",36
+"Brand Marketing,Display,Referral,SEO,Youtube",15
+"Brand Marketing,Direct,Display,Referral,Youtube",29
+"Brand Marketing,Display,Referral,SEM,SEO",49
+"Brand Marketing,Direct,Display,Referral,SEM",58
+"Brand Marketing,Direct,Display,Referral,SEO",90
+"Display,Email,Other,Referral,Youtube",32
+"Display,Email,Other,Referral,SEM",61
+"Display,Email,Other,Referral,SEO",81
+"Direct,Display,Email,Other,Referral",20
+"Display,Email,Referral,SEM,Youtube",26
+"Display,Email,Referral,SEO,Youtube",73
+"Direct,Display,Email,Referral,Youtube",37
+"Display,Email,Referral,SEM,SEO",38
+"Direct,Display,Email,Referral,SEM",97
+"Direct,Display,Email,Referral,SEO",13
+"Display,Other,Referral,SEM,Youtube",27
+"Display,Other,Referral,SEO,Youtube",9
+"Direct,Display,Other,Referral,Youtube",11
+"Display,Other,Referral,SEM,SEO",3
+"Direct,Display,Other,Referral,SEM",49
+"Direct,Display,Other,Referral,SEO",70
+"Display,Referral,SEM,SEO,Youtube",30
+"Direct,Display,Referral,SEM,Youtube",99
+"Direct,Display,Referral,SEO,Youtube",73
+"Direct,Display,Referral,SEM,SEO",97
+"Brand Marketing,Display,Email,Paid Social,Unpaid Social",66
+"Brand Marketing,Display,Other,Paid Social,Unpaid Social",51
+"Brand Marketing,Display,Paid Social,Unpaid Social,Youtube",56
+"Brand Marketing,Display,Paid Social,SEM,Unpaid Social",26
+"Brand Marketing,Display,Paid Social,SEO,Unpaid Social",2
+"Brand Marketing,Direct,Display,Paid Social,Unpaid Social",89
+"Display,Email,Other,Paid Social,Unpaid Social",52
+"Display,Email,Paid Social,Unpaid Social,Youtube",55
+"Display,Email,Paid Social,SEM,Unpaid Social",84
+"Display,Email,Paid Social,SEO,Unpaid Social",50
+"Direct,Display,Email,Paid Social,Unpaid Social",76
+"Display,Other,Paid Social,Unpaid Social,Youtube",23
+"Display,Other,Paid Social,SEM,Unpaid Social",80
+"Display,Other,Paid Social,SEO,Unpaid Social",43
+"Direct,Display,Other,Paid Social,Unpaid Social",16
+"Display,Paid Social,SEM,Unpaid Social,Youtube",8
+"Display,Paid Social,SEO,Unpaid Social,Youtube",23
+"Direct,Display,Paid Social,Unpaid Social,Youtube",35
+"Display,Paid Social,SEM,SEO,Unpaid Social",21
+"Direct,Display,Paid Social,SEM,Unpaid Social",6
+"Direct,Display,Paid Social,SEO,Unpaid Social",8
+"Brand Marketing,Display,Email,Other,Paid Social",96
+"Brand Marketing,Display,Email,Paid Social,Youtube",62
+"Brand Marketing,Display,Email,Paid Social,SEM",29
+"Brand Marketing,Display,Email,Paid Social,SEO",95
+"Brand Marketing,Direct,Display,Email,Paid Social",83
+"Brand Marketing,Display,Other,Paid Social,Youtube",26
+"Brand Marketing,Display,Other,Paid Social,SEM",40
+"Brand Marketing,Display,Other,Paid Social,SEO",58
+"Brand Marketing,Direct,Display,Other,Paid Social",51
+"Brand Marketing,Display,Paid Social,SEM,Youtube",77
+"Brand Marketing,Display,Paid Social,SEO,Youtube",63
+"Brand Marketing,Direct,Display,Paid Social,Youtube",73
+"Brand Marketing,Display,Paid Social,SEM,SEO",21
+"Brand Marketing,Direct,Display,Paid Social,SEM",51
+"Brand Marketing,Direct,Display,Paid Social,SEO",77
+"Display,Email,Other,Paid Social,Youtube",43
+"Display,Email,Other,Paid Social,SEM",9
+"Display,Email,Other,Paid Social,SEO",30
+"Direct,Display,Email,Other,Paid Social",19
+"Display,Email,Paid Social,SEM,Youtube",14
+"Display,Email,Paid Social,SEO,Youtube",83
+"Direct,Display,Email,Paid Social,Youtube",8
+"Display,Email,Paid Social,SEM,SEO",65
+"Direct,Display,Email,Paid Social,SEM",86
+"Direct,Display,Email,Paid Social,SEO",95
+"Display,Other,Paid Social,SEM,Youtube",96
+"Display,Other,Paid Social,SEO,Youtube",21
+"Direct,Display,Other,Paid Social,Youtube",93
+"Display,Other,Paid Social,SEM,SEO",75
+"Direct,Display,Other,Paid Social,SEM",94
+"Direct,Display,Other,Paid Social,SEO",79
+"Display,Paid Social,SEM,SEO,Youtube",26
+"Direct,Display,Paid Social,SEM,Youtube",90
+"Direct,Display,Paid Social,SEO,Youtube",38
+"Direct,Display,Paid Social,SEM,SEO",65
+"Brand Marketing,Display,Email,Other,Unpaid Social",12
+"Brand Marketing,Display,Email,Unpaid Social,Youtube",59
+"Brand Marketing,Display,Email,SEM,Unpaid Social",87
+"Brand Marketing,Display,Email,SEO,Unpaid Social",54
+"Brand Marketing,Direct,Display,Email,Unpaid Social",29
+"Brand Marketing,Display,Other,Unpaid Social,Youtube",87
+"Brand Marketing,Display,Other,SEM,Unpaid Social",1
+"Brand Marketing,Display,Other,SEO,Unpaid Social",71
+"Brand Marketing,Direct,Display,Other,Unpaid Social",57
+"Brand Marketing,Display,SEM,Unpaid Social,Youtube",18
+"Brand Marketing,Display,SEO,Unpaid Social,Youtube",91
+"Brand Marketing,Direct,Display,Unpaid Social,Youtube",75
+"Brand Marketing,Display,SEM,SEO,Unpaid Social",45
+"Brand Marketing,Direct,Display,SEM,Unpaid Social",70
+"Brand Marketing,Direct,Display,SEO,Unpaid Social",19
+"Display,Email,Other,Unpaid Social,Youtube",17
+"Display,Email,Other,SEM,Unpaid Social",62
+"Display,Email,Other,SEO,Unpaid Social",78
+"Direct,Display,Email,Other,Unpaid Social",26
+"Display,Email,SEM,Unpaid Social,Youtube",51
+"Display,Email,SEO,Unpaid Social,Youtube",75
+"Direct,Display,Email,Unpaid Social,Youtube",36
+"Display,Email,SEM,SEO,Unpaid Social",41
+"Direct,Display,Email,SEM,Unpaid Social",57
+"Direct,Display,Email,SEO,Unpaid Social",10
+"Display,Other,SEM,Unpaid Social,Youtube",10
+"Display,Other,SEO,Unpaid Social,Youtube",77
+"Direct,Display,Other,Unpaid Social,Youtube",18
+"Display,Other,SEM,SEO,Unpaid Social",40
+"Direct,Display,Other,SEM,Unpaid Social",30
+"Direct,Display,Other,SEO,Unpaid Social",62
+"Display,SEM,SEO,Unpaid Social,Youtube",90
+"Direct,Display,SEM,Unpaid Social,Youtube",69
+"Direct,Display,SEO,Unpaid Social,Youtube",34
+"Direct,Display,SEM,SEO,Unpaid Social",14
+"Brand Marketing,Display,Email,Other,Youtube",84
+"Brand Marketing,Display,Email,Other,SEM",4
+"Brand Marketing,Display,Email,Other,SEO",16
+"Brand Marketing,Direct,Display,Email,Other",87
+"Brand Marketing,Display,Email,SEM,Youtube",63
+"Brand Marketing,Display,Email,SEO,Youtube",16
+"Brand Marketing,Direct,Display,Email,Youtube",7
+"Brand Marketing,Display,Email,SEM,SEO",5
+"Brand Marketing,Direct,Display,Email,SEM",72
+"Brand Marketing,Direct,Display,Email,SEO",34
+"Brand Marketing,Display,Other,SEM,Youtube",58
+"Brand Marketing,Display,Other,SEO,Youtube",33
+"Brand Marketing,Direct,Display,Other,Youtube",29
+"Brand Marketing,Display,Other,SEM,SEO",77
+"Brand Marketing,Direct,Display,Other,SEM",37
+"Brand Marketing,Direct,Display,Other,SEO",33
+"Brand Marketing,Display,SEM,SEO,Youtube",77
+"Brand Marketing,Direct,Display,SEM,Youtube",90
+"Brand Marketing,Direct,Display,SEO,Youtube",5
+"Brand Marketing,Direct,Display,SEM,SEO",15
+"Display,Email,Other,SEM,Youtube",73
+"Display,Email,Other,SEO,Youtube",58
+"Direct,Display,Email,Other,Youtube",31
+"Display,Email,Other,SEM,SEO",27
+"Direct,Display,Email,Other,SEM",55
+"Direct,Display,Email,Other,SEO",50
+"Display,Email,SEM,SEO,Youtube",28
+"Direct,Display,Email,SEM,Youtube",27
+"Direct,Display,Email,SEO,Youtube",27
+"Direct,Display,Email,SEM,SEO",21
+"Display,Other,SEM,SEO,Youtube",90
+"Direct,Display,Other,SEM,Youtube",37
+"Direct,Display,Other,SEO,Youtube",18
+"Direct,Display,Other,SEM,SEO",97
+"Direct,Display,SEM,SEO,Youtube",62
+"Brand Marketing,Email,Paid Social,Referral,Unpaid Social",28
+"Brand Marketing,Other,Paid Social,Referral,Unpaid Social",68
+"Brand Marketing,Paid Social,Referral,Unpaid Social,Youtube",55
+"Brand Marketing,Paid Social,Referral,SEM,Unpaid Social",97
+"Brand Marketing,Paid Social,Referral,SEO,Unpaid Social",5
+"Brand Marketing,Direct,Paid Social,Referral,Unpaid Social",8
+"Email,Other,Paid Social,Referral,Unpaid Social",83
+"Email,Paid Social,Referral,Unpaid Social,Youtube",44
+"Email,Paid Social,Referral,SEM,Unpaid Social",5
+"Email,Paid Social,Referral,SEO,Unpaid Social",69
+"Direct,Email,Paid Social,Referral,Unpaid Social",69
+"Other,Paid Social,Referral,Unpaid Social,Youtube",3
+"Other,Paid Social,Referral,SEM,Unpaid Social",96
+"Other,Paid Social,Referral,SEO,Unpaid Social",19
+"Direct,Other,Paid Social,Referral,Unpaid Social",55
+"Paid Social,Referral,SEM,Unpaid Social,Youtube",28
+"Paid Social,Referral,SEO,Unpaid Social,Youtube",78
+"Direct,Paid Social,Referral,Unpaid Social,Youtube",34
+"Paid Social,Referral,SEM,SEO,Unpaid Social",40
+"Direct,Paid Social,Referral,SEM,Unpaid Social",17
+"Direct,Paid Social,Referral,SEO,Unpaid Social",63
+"Brand Marketing,Email,Other,Paid Social,Referral",9
+"Brand Marketing,Email,Paid Social,Referral,Youtube",97
+"Brand Marketing,Email,Paid Social,Referral,SEM",40
+"Brand Marketing,Email,Paid Social,Referral,SEO",38
+"Brand Marketing,Direct,Email,Paid Social,Referral",61
+"Brand Marketing,Other,Paid Social,Referral,Youtube",39
+"Brand Marketing,Other,Paid Social,Referral,SEM",98
+"Brand Marketing,Other,Paid Social,Referral,SEO",9
+"Brand Marketing,Direct,Other,Paid Social,Referral",21
+"Brand Marketing,Paid Social,Referral,SEM,Youtube",97
+"Brand Marketing,Paid Social,Referral,SEO,Youtube",3
+"Brand Marketing,Direct,Paid Social,Referral,Youtube",43
+"Brand Marketing,Paid Social,Referral,SEM,SEO",81
+"Brand Marketing,Direct,Paid Social,Referral,SEM",59
+"Brand Marketing,Direct,Paid Social,Referral,SEO",24
+"Email,Other,Paid Social,Referral,Youtube",74
+"Email,Other,Paid Social,Referral,SEM",99
+"Email,Other,Paid Social,Referral,SEO",33
+"Direct,Email,Other,Paid Social,Referral",24
+"Email,Paid Social,Referral,SEM,Youtube",96
+"Email,Paid Social,Referral,SEO,Youtube",46
+"Direct,Email,Paid Social,Referral,Youtube",71
+"Email,Paid Social,Referral,SEM,SEO",74
+"Direct,Email,Paid Social,Referral,SEM",27
+"Direct,Email,Paid Social,Referral,SEO",3
+"Other,Paid Social,Referral,SEM,Youtube",74
+"Other,Paid Social,Referral,SEO,Youtube",13
+"Direct,Other,Paid Social,Referral,Youtube",20
+"Other,Paid Social,Referral,SEM,SEO",0
+"Direct,Other,Paid Social,Referral,SEM",8
+"Direct,Other,Paid Social,Referral,SEO",54
+"Paid Social,Referral,SEM,SEO,Youtube",54
+"Direct,Paid Social,Referral,SEM,Youtube",39
+"Direct,Paid Social,Referral,SEO,Youtube",94
+"Direct,Paid Social,Referral,SEM,SEO",60
+"Brand Marketing,Email,Other,Referral,Unpaid Social",42
+"Brand Marketing,Email,Referral,Unpaid Social,Youtube",46
+"Brand Marketing,Email,Referral,SEM,Unpaid Social",75
+"Brand Marketing,Email,Referral,SEO,Unpaid Social",99
+"Brand Marketing,Direct,Email,Referral,Unpaid Social",71
+"Brand Marketing,Other,Referral,Unpaid Social,Youtube",22
+"Brand Marketing,Other,Referral,SEM,Unpaid Social",80
+"Brand Marketing,Other,Referral,SEO,Unpaid Social",20
+"Brand Marketing,Direct,Other,Referral,Unpaid Social",84
+"Brand Marketing,Referral,SEM,Unpaid Social,Youtube",3
+"Brand Marketing,Referral,SEO,Unpaid Social,Youtube",33
+"Brand Marketing,Direct,Referral,Unpaid Social,Youtube",61
+"Brand Marketing,Referral,SEM,SEO,Unpaid Social",10
+"Brand Marketing,Direct,Referral,SEM,Unpaid Social",23
+"Brand Marketing,Direct,Referral,SEO,Unpaid Social",8
+"Email,Other,Referral,Unpaid Social,Youtube",96
+"Email,Other,Referral,SEM,Unpaid Social",28
+"Email,Other,Referral,SEO,Unpaid Social",66
+"Direct,Email,Other,Referral,Unpaid Social",20
+"Email,Referral,SEM,Unpaid Social,Youtube",64
+"Email,Referral,SEO,Unpaid Social,Youtube",49
+"Direct,Email,Referral,Unpaid Social,Youtube",32
+"Email,Referral,SEM,SEO,Unpaid Social",23
+"Direct,Email,Referral,SEM,Unpaid Social",94
+"Direct,Email,Referral,SEO,Unpaid Social",6
+"Other,Referral,SEM,Unpaid Social,Youtube",63
+"Other,Referral,SEO,Unpaid Social,Youtube",89
+"Direct,Other,Referral,Unpaid Social,Youtube",28
+"Other,Referral,SEM,SEO,Unpaid Social",46
+"Direct,Other,Referral,SEM,Unpaid Social",48
+"Direct,Other,Referral,SEO,Unpaid Social",65
+"Referral,SEM,SEO,Unpaid Social,Youtube",2
+"Direct,Referral,SEM,Unpaid Social,Youtube",74
+"Direct,Referral,SEO,Unpaid Social,Youtube",40
+"Direct,Referral,SEM,SEO,Unpaid Social",74
+"Brand Marketing,Email,Other,Referral,Youtube",23
+"Brand Marketing,Email,Other,Referral,SEM",52
+"Brand Marketing,Email,Other,Referral,SEO",16
+"Brand Marketing,Direct,Email,Other,Referral",53
+"Brand Marketing,Email,Referral,SEM,Youtube",83
+"Brand Marketing,Email,Referral,SEO,Youtube",37
+"Brand Marketing,Direct,Email,Referral,Youtube",89
+"Brand Marketing,Email,Referral,SEM,SEO",34
+"Brand Marketing,Direct,Email,Referral,SEM",51
+"Brand Marketing,Direct,Email,Referral,SEO",73
+"Brand Marketing,Other,Referral,SEM,Youtube",74
+"Brand Marketing,Other,Referral,SEO,Youtube",95
+"Brand Marketing,Direct,Other,Referral,Youtube",19
+"Brand Marketing,Other,Referral,SEM,SEO",53
+"Brand Marketing,Direct,Other,Referral,SEM",4
+"Brand Marketing,Direct,Other,Referral,SEO",18
+"Brand Marketing,Referral,SEM,SEO,Youtube",66
+"Brand Marketing,Direct,Referral,SEM,Youtube",11
+"Brand Marketing,Direct,Referral,SEO,Youtube",69
+"Brand Marketing,Direct,Referral,SEM,SEO",45
+"Email,Other,Referral,SEM,Youtube",10
+"Email,Other,Referral,SEO,Youtube",45
+"Direct,Email,Other,Referral,Youtube",81
+"Email,Other,Referral,SEM,SEO",60
+"Direct,Email,Other,Referral,SEM",64
+"Direct,Email,Other,Referral,SEO",72
+"Email,Referral,SEM,SEO,Youtube",18
+"Direct,Email,Referral,SEM,Youtube",59
+"Direct,Email,Referral,SEO,Youtube",25
+"Direct,Email,Referral,SEM,SEO",77
+"Other,Referral,SEM,SEO,Youtube",10
+"Direct,Other,Referral,SEM,Youtube",40
+"Direct,Other,Referral,SEO,Youtube",48
+"Direct,Other,Referral,SEM,SEO",56
+"Direct,Referral,SEM,SEO,Youtube",11
+"Brand Marketing,Email,Other,Paid Social,Unpaid Social",0
+"Brand Marketing,Email,Paid Social,Unpaid Social,Youtube",40
+"Brand Marketing,Email,Paid Social,SEM,Unpaid Social",94
+"Brand Marketing,Email,Paid Social,SEO,Unpaid Social",23
+"Brand Marketing,Direct,Email,Paid Social,Unpaid Social",39
+"Brand Marketing,Other,Paid Social,Unpaid Social,Youtube",33
+"Brand Marketing,Other,Paid Social,SEM,Unpaid Social",72
+"Brand Marketing,Other,Paid Social,SEO,Unpaid Social",65
+"Brand Marketing,Direct,Other,Paid Social,Unpaid Social",39
+"Brand Marketing,Paid Social,SEM,Unpaid Social,Youtube",35
+"Brand Marketing,Paid Social,SEO,Unpaid Social,Youtube",91
+"Brand Marketing,Direct,Paid Social,Unpaid Social,Youtube",96
+"Brand Marketing,Paid Social,SEM,SEO,Unpaid Social",21
+"Brand Marketing,Direct,Paid Social,SEM,Unpaid Social",7
+"Brand Marketing,Direct,Paid Social,SEO,Unpaid Social",10
+"Email,Other,Paid Social,Unpaid Social,Youtube",3
+"Email,Other,Paid Social,SEM,Unpaid Social",18
+"Email,Other,Paid Social,SEO,Unpaid Social",19
+"Direct,Email,Other,Paid Social,Unpaid Social",77
+"Email,Paid Social,SEM,Unpaid Social,Youtube",74
+"Email,Paid Social,SEO,Unpaid Social,Youtube",53
+"Direct,Email,Paid Social,Unpaid Social,Youtube",38
+"Email,Paid Social,SEM,SEO,Unpaid Social",93
+"Direct,Email,Paid Social,SEM,Unpaid Social",52
+"Direct,Email,Paid Social,SEO,Unpaid Social",12
+"Other,Paid Social,SEM,Unpaid Social,Youtube",16
+"Other,Paid Social,SEO,Unpaid Social,Youtube",66
+"Direct,Other,Paid Social,Unpaid Social,Youtube",33
+"Other,Paid Social,SEM,SEO,Unpaid Social",4
+"Direct,Other,Paid Social,SEM,Unpaid Social",66
+"Direct,Other,Paid Social,SEO,Unpaid Social",91
+"Paid Social,SEM,SEO,Unpaid Social,Youtube",62
+"Direct,Paid Social,SEM,Unpaid Social,Youtube",51
+"Direct,Paid Social,SEO,Unpaid Social,Youtube",38
+"Direct,Paid Social,SEM,SEO,Unpaid Social",45
+"Brand Marketing,Email,Other,Paid Social,Youtube",23
+"Brand Marketing,Email,Other,Paid Social,SEM",3
+"Brand Marketing,Email,Other,Paid Social,SEO",53
+"Brand Marketing,Direct,Email,Other,Paid Social",58
+"Brand Marketing,Email,Paid Social,SEM,Youtube",1
+"Brand Marketing,Email,Paid Social,SEO,Youtube",22
+"Brand Marketing,Direct,Email,Paid Social,Youtube",49
+"Brand Marketing,Email,Paid Social,SEM,SEO",51
+"Brand Marketing,Direct,Email,Paid Social,SEM",13
+"Brand Marketing,Direct,Email,Paid Social,SEO",5
+"Brand Marketing,Other,Paid Social,SEM,Youtube",36
+"Brand Marketing,Other,Paid Social,SEO,Youtube",79
+"Brand Marketing,Direct,Other,Paid Social,Youtube",88
+"Brand Marketing,Other,Paid Social,SEM,SEO",30
+"Brand Marketing,Direct,Other,Paid Social,SEM",27
+"Brand Marketing,Direct,Other,Paid Social,SEO",36
+"Brand Marketing,Paid Social,SEM,SEO,Youtube",78
+"Brand Marketing,Direct,Paid Social,SEM,Youtube",94
+"Brand Marketing,Direct,Paid Social,SEO,Youtube",56
+"Brand Marketing,Direct,Paid Social,SEM,SEO",24
+"Email,Other,Paid Social,SEM,Youtube",82
+"Email,Other,Paid Social,SEO,Youtube",84
+"Direct,Email,Other,Paid Social,Youtube",86
+"Email,Other,Paid Social,SEM,SEO",96
+"Direct,Email,Other,Paid Social,SEM",27
+"Direct,Email,Other,Paid Social,SEO",86
+"Email,Paid Social,SEM,SEO,Youtube",38
+"Direct,Email,Paid Social,SEM,Youtube",15
+"Direct,Email,Paid Social,SEO,Youtube",82
+"Direct,Email,Paid Social,SEM,SEO",45
+"Other,Paid Social,SEM,SEO,Youtube",45
+"Direct,Other,Paid Social,SEM,Youtube",97
+"Direct,Other,Paid Social,SEO,Youtube",8
+"Direct,Other,Paid Social,SEM,SEO",97
+"Direct,Paid Social,SEM,SEO,Youtube",42
+"Brand Marketing,Email,Other,Unpaid Social,Youtube",5
+"Brand Marketing,Email,Other,SEM,Unpaid Social",76
+"Brand Marketing,Email,Other,SEO,Unpaid Social",71
+"Brand Marketing,Direct,Email,Other,Unpaid Social",16
+"Brand Marketing,Email,SEM,Unpaid Social,Youtube",56
+"Brand Marketing,Email,SEO,Unpaid Social,Youtube",4
+"Brand Marketing,Direct,Email,Unpaid Social,Youtube",71
+"Brand Marketing,Email,SEM,SEO,Unpaid Social",65
+"Brand Marketing,Direct,Email,SEM,Unpaid Social",56
+"Brand Marketing,Direct,Email,SEO,Unpaid Social",63
+"Brand Marketing,Other,SEM,Unpaid Social,Youtube",59
+"Brand Marketing,Other,SEO,Unpaid Social,Youtube",24
+"Brand Marketing,Direct,Other,Unpaid Social,Youtube",10
+"Brand Marketing,Other,SEM,SEO,Unpaid Social",92
+"Brand Marketing,Direct,Other,SEM,Unpaid Social",80
+"Brand Marketing,Direct,Other,SEO,Unpaid Social",73
+"Brand Marketing,SEM,SEO,Unpaid Social,Youtube",73
+"Brand Marketing,Direct,SEM,Unpaid Social,Youtube",6
+"Brand Marketing,Direct,SEO,Unpaid Social,Youtube",75
+"Brand Marketing,Direct,SEM,SEO,Unpaid Social",98
+"Email,Other,SEM,Unpaid Social,Youtube",93
+"Email,Other,SEO,Unpaid Social,Youtube",50
+"Direct,Email,Other,Unpaid Social,Youtube",55
+"Email,Other,SEM,SEO,Unpaid Social",42
+"Direct,Email,Other,SEM,Unpaid Social",4
+"Direct,Email,Other,SEO,Unpaid Social",84
+"Email,SEM,SEO,Unpaid Social,Youtube",92
+"Direct,Email,SEM,Unpaid Social,Youtube",50
+"Direct,Email,SEO,Unpaid Social,Youtube",77
+"Direct,Email,SEM,SEO,Unpaid Social",73
+"Other,SEM,SEO,Unpaid Social,Youtube",88
+"Direct,Other,SEM,Unpaid Social,Youtube",67
+"Direct,Other,SEO,Unpaid Social,Youtube",37
+"Direct,Other,SEM,SEO,Unpaid Social",70
+"Direct,SEM,SEO,Unpaid Social,Youtube",14
+"Brand Marketing,Email,Other,SEM,Youtube",84
+"Brand Marketing,Email,Other,SEO,Youtube",18
+"Brand Marketing,Direct,Email,Other,Youtube",16
+"Brand Marketing,Email,Other,SEM,SEO",6
+"Brand Marketing,Direct,Email,Other,SEM",87
+"Brand Marketing,Direct,Email,Other,SEO",35
+"Brand Marketing,Email,SEM,SEO,Youtube",46
+"Brand Marketing,Direct,Email,SEM,Youtube",22
+"Brand Marketing,Direct,Email,SEO,Youtube",46
+"Brand Marketing,Direct,Email,SEM,SEO",25
+"Brand Marketing,Other,SEM,SEO,Youtube",94
+"Brand Marketing,Direct,Other,SEM,Youtube",45
+"Brand Marketing,Direct,Other,SEO,Youtube",79
+"Brand Marketing,Direct,Other,SEM,SEO",9
+"Brand Marketing,Direct,SEM,SEO,Youtube",84
+"Email,Other,SEM,SEO,Youtube",32
+"Direct,Email,Other,SEM,Youtube",34
+"Direct,Email,Other,SEO,Youtube",65
+"Direct,Email,Other,SEM,SEO",98
+"Direct,Email,SEM,SEO,Youtube",86
+"Direct,Other,SEM,SEO,Youtube",30
+"Brand Marketing,Display,Email,Paid Social,Referral,Unpaid Social",48
+"Brand Marketing,Display,Other,Paid Social,Referral,Unpaid Social",56
+"Brand Marketing,Display,Paid Social,Referral,Unpaid Social,Youtube",4
+"Brand Marketing,Display,Paid Social,Referral,SEM,Unpaid Social",71
+"Brand Marketing,Display,Paid Social,Referral,SEO,Unpaid Social",11
+"Brand Marketing,Direct,Display,Paid Social,Referral,Unpaid Social",92
+"Display,Email,Other,Paid Social,Referral,Unpaid Social",29
+"Display,Email,Paid Social,Referral,Unpaid Social,Youtube",4
+"Display,Email,Paid Social,Referral,SEM,Unpaid Social",96
+"Display,Email,Paid Social,Referral,SEO,Unpaid Social",99
+"Direct,Display,Email,Paid Social,Referral,Unpaid Social",38
+"Display,Other,Paid Social,Referral,Unpaid Social,Youtube",83
+"Display,Other,Paid Social,Referral,SEM,Unpaid Social",13
+"Display,Other,Paid Social,Referral,SEO,Unpaid Social",28
+"Direct,Display,Other,Paid Social,Referral,Unpaid Social",62
+"Display,Paid Social,Referral,SEM,Unpaid Social,Youtube",84
+"Display,Paid Social,Referral,SEO,Unpaid Social,Youtube",46
+"Direct,Display,Paid Social,Referral,Unpaid Social,Youtube",39
+"Display,Paid Social,Referral,SEM,SEO,Unpaid Social",71
+"Direct,Display,Paid Social,Referral,SEM,Unpaid Social",2
+"Direct,Display,Paid Social,Referral,SEO,Unpaid Social",28
+"Brand Marketing,Display,Email,Other,Paid Social,Referral",3
+"Brand Marketing,Display,Email,Paid Social,Referral,Youtube",95
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM",95
+"Brand Marketing,Display,Email,Paid Social,Referral,SEO",62
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral",0
+"Brand Marketing,Display,Other,Paid Social,Referral,Youtube",99
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM",63
+"Brand Marketing,Display,Other,Paid Social,Referral,SEO",87
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral",72
+"Brand Marketing,Display,Paid Social,Referral,SEM,Youtube",65
+"Brand Marketing,Display,Paid Social,Referral,SEO,Youtube",11
+"Brand Marketing,Direct,Display,Paid Social,Referral,Youtube",46
+"Brand Marketing,Display,Paid Social,Referral,SEM,SEO",30
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM",35
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEO",27
+"Display,Email,Other,Paid Social,Referral,Youtube",86
+"Display,Email,Other,Paid Social,Referral,SEM",81
+"Display,Email,Other,Paid Social,Referral,SEO",99
+"Direct,Display,Email,Other,Paid Social,Referral",89
+"Display,Email,Paid Social,Referral,SEM,Youtube",50
+"Display,Email,Paid Social,Referral,SEO,Youtube",47
+"Direct,Display,Email,Paid Social,Referral,Youtube",19
+"Display,Email,Paid Social,Referral,SEM,SEO",30
+"Direct,Display,Email,Paid Social,Referral,SEM",37
+"Direct,Display,Email,Paid Social,Referral,SEO",41
+"Display,Other,Paid Social,Referral,SEM,Youtube",15
+"Display,Other,Paid Social,Referral,SEO,Youtube",65
+"Direct,Display,Other,Paid Social,Referral,Youtube",28
+"Display,Other,Paid Social,Referral,SEM,SEO",44
+"Direct,Display,Other,Paid Social,Referral,SEM",16
+"Direct,Display,Other,Paid Social,Referral,SEO",95
+"Display,Paid Social,Referral,SEM,SEO,Youtube",55
+"Direct,Display,Paid Social,Referral,SEM,Youtube",2
+"Direct,Display,Paid Social,Referral,SEO,Youtube",8
+"Direct,Display,Paid Social,Referral,SEM,SEO",18
+"Brand Marketing,Display,Email,Other,Referral,Unpaid Social",69
+"Brand Marketing,Display,Email,Referral,Unpaid Social,Youtube",33
+"Brand Marketing,Display,Email,Referral,SEM,Unpaid Social",35
+"Brand Marketing,Display,Email,Referral,SEO,Unpaid Social",72
+"Brand Marketing,Direct,Display,Email,Referral,Unpaid Social",43
+"Brand Marketing,Display,Other,Referral,Unpaid Social,Youtube",72
+"Brand Marketing,Display,Other,Referral,SEM,Unpaid Social",68
+"Brand Marketing,Display,Other,Referral,SEO,Unpaid Social",86
+"Brand Marketing,Direct,Display,Other,Referral,Unpaid Social",62
+"Brand Marketing,Display,Referral,SEM,Unpaid Social,Youtube",67
+"Brand Marketing,Display,Referral,SEO,Unpaid Social,Youtube",31
+"Brand Marketing,Direct,Display,Referral,Unpaid Social,Youtube",65
+"Brand Marketing,Display,Referral,SEM,SEO,Unpaid Social",14
+"Brand Marketing,Direct,Display,Referral,SEM,Unpaid Social",37
+"Brand Marketing,Direct,Display,Referral,SEO,Unpaid Social",54
+"Display,Email,Other,Referral,Unpaid Social,Youtube",57
+"Display,Email,Other,Referral,SEM,Unpaid Social",50
+"Display,Email,Other,Referral,SEO,Unpaid Social",79
+"Direct,Display,Email,Other,Referral,Unpaid Social",52
+"Display,Email,Referral,SEM,Unpaid Social,Youtube",98
+"Display,Email,Referral,SEO,Unpaid Social,Youtube",91
+"Direct,Display,Email,Referral,Unpaid Social,Youtube",65
+"Display,Email,Referral,SEM,SEO,Unpaid Social",67
+"Direct,Display,Email,Referral,SEM,Unpaid Social",34
+"Direct,Display,Email,Referral,SEO,Unpaid Social",2
+"Display,Other,Referral,SEM,Unpaid Social,Youtube",40
+"Display,Other,Referral,SEO,Unpaid Social,Youtube",13
+"Direct,Display,Other,Referral,Unpaid Social,Youtube",28
+"Display,Other,Referral,SEM,SEO,Unpaid Social",92
+"Direct,Display,Other,Referral,SEM,Unpaid Social",84
+"Direct,Display,Other,Referral,SEO,Unpaid Social",24
+"Display,Referral,SEM,SEO,Unpaid Social,Youtube",10
+"Direct,Display,Referral,SEM,Unpaid Social,Youtube",78
+"Direct,Display,Referral,SEO,Unpaid Social,Youtube",31
+"Direct,Display,Referral,SEM,SEO,Unpaid Social",26
+"Brand Marketing,Display,Email,Other,Referral,Youtube",80
+"Brand Marketing,Display,Email,Other,Referral,SEM",40
+"Brand Marketing,Display,Email,Other,Referral,SEO",30
+"Brand Marketing,Direct,Display,Email,Other,Referral",43
+"Brand Marketing,Display,Email,Referral,SEM,Youtube",23
+"Brand Marketing,Display,Email,Referral,SEO,Youtube",11
+"Brand Marketing,Direct,Display,Email,Referral,Youtube",89
+"Brand Marketing,Display,Email,Referral,SEM,SEO",26
+"Brand Marketing,Direct,Display,Email,Referral,SEM",34
+"Brand Marketing,Direct,Display,Email,Referral,SEO",88
+"Brand Marketing,Display,Other,Referral,SEM,Youtube",90
+"Brand Marketing,Display,Other,Referral,SEO,Youtube",2
+"Brand Marketing,Direct,Display,Other,Referral,Youtube",75
+"Brand Marketing,Display,Other,Referral,SEM,SEO",17
+"Brand Marketing,Direct,Display,Other,Referral,SEM",42
+"Brand Marketing,Direct,Display,Other,Referral,SEO",44
+"Brand Marketing,Display,Referral,SEM,SEO,Youtube",51
+"Brand Marketing,Direct,Display,Referral,SEM,Youtube",68
+"Brand Marketing,Direct,Display,Referral,SEO,Youtube",77
+"Brand Marketing,Direct,Display,Referral,SEM,SEO",35
+"Display,Email,Other,Referral,SEM,Youtube",76
+"Display,Email,Other,Referral,SEO,Youtube",2
+"Direct,Display,Email,Other,Referral,Youtube",85
+"Display,Email,Other,Referral,SEM,SEO",6
+"Direct,Display,Email,Other,Referral,SEM",26
+"Direct,Display,Email,Other,Referral,SEO",99
+"Display,Email,Referral,SEM,SEO,Youtube",56
+"Direct,Display,Email,Referral,SEM,Youtube",91
+"Direct,Display,Email,Referral,SEO,Youtube",91
+"Direct,Display,Email,Referral,SEM,SEO",18
+"Display,Other,Referral,SEM,SEO,Youtube",69
+"Direct,Display,Other,Referral,SEM,Youtube",30
+"Direct,Display,Other,Referral,SEO,Youtube",12
+"Direct,Display,Other,Referral,SEM,SEO",41
+"Direct,Display,Referral,SEM,SEO,Youtube",44
+"Brand Marketing,Display,Email,Other,Paid Social,Unpaid Social",32
+"Brand Marketing,Display,Email,Paid Social,Unpaid Social,Youtube",95
+"Brand Marketing,Display,Email,Paid Social,SEM,Unpaid Social",31
+"Brand Marketing,Display,Email,Paid Social,SEO,Unpaid Social",26
+"Brand Marketing,Direct,Display,Email,Paid Social,Unpaid Social",3
+"Brand Marketing,Display,Other,Paid Social,Unpaid Social,Youtube",48
+"Brand Marketing,Display,Other,Paid Social,SEM,Unpaid Social",4
+"Brand Marketing,Display,Other,Paid Social,SEO,Unpaid Social",52
+"Brand Marketing,Direct,Display,Other,Paid Social,Unpaid Social",60
+"Brand Marketing,Display,Paid Social,SEM,Unpaid Social,Youtube",72
+"Brand Marketing,Display,Paid Social,SEO,Unpaid Social,Youtube",74
+"Brand Marketing,Direct,Display,Paid Social,Unpaid Social,Youtube",1
+"Brand Marketing,Display,Paid Social,SEM,SEO,Unpaid Social",26
+"Brand Marketing,Direct,Display,Paid Social,SEM,Unpaid Social",83
+"Brand Marketing,Direct,Display,Paid Social,SEO,Unpaid Social",73
+"Display,Email,Other,Paid Social,Unpaid Social,Youtube",13
+"Display,Email,Other,Paid Social,SEM,Unpaid Social",94
+"Display,Email,Other,Paid Social,SEO,Unpaid Social",84
+"Direct,Display,Email,Other,Paid Social,Unpaid Social",34
+"Display,Email,Paid Social,SEM,Unpaid Social,Youtube",60
+"Display,Email,Paid Social,SEO,Unpaid Social,Youtube",70
+"Direct,Display,Email,Paid Social,Unpaid Social,Youtube",77
+"Display,Email,Paid Social,SEM,SEO,Unpaid Social",58
+"Direct,Display,Email,Paid Social,SEM,Unpaid Social",75
+"Direct,Display,Email,Paid Social,SEO,Unpaid Social",95
+"Display,Other,Paid Social,SEM,Unpaid Social,Youtube",3
+"Display,Other,Paid Social,SEO,Unpaid Social,Youtube",17
+"Direct,Display,Other,Paid Social,Unpaid Social,Youtube",47
+"Display,Other,Paid Social,SEM,SEO,Unpaid Social",82
+"Direct,Display,Other,Paid Social,SEM,Unpaid Social",15
+"Direct,Display,Other,Paid Social,SEO,Unpaid Social",3
+"Display,Paid Social,SEM,SEO,Unpaid Social,Youtube",31
+"Direct,Display,Paid Social,SEM,Unpaid Social,Youtube",26
+"Direct,Display,Paid Social,SEO,Unpaid Social,Youtube",33
+"Direct,Display,Paid Social,SEM,SEO,Unpaid Social",70
+"Brand Marketing,Display,Email,Other,Paid Social,Youtube",0
+"Brand Marketing,Display,Email,Other,Paid Social,SEM",0
+"Brand Marketing,Display,Email,Other,Paid Social,SEO",84
+"Brand Marketing,Direct,Display,Email,Other,Paid Social",55
+"Brand Marketing,Display,Email,Paid Social,SEM,Youtube",71
+"Brand Marketing,Display,Email,Paid Social,SEO,Youtube",26
+"Brand Marketing,Direct,Display,Email,Paid Social,Youtube",84
+"Brand Marketing,Display,Email,Paid Social,SEM,SEO",51
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM",46
+"Brand Marketing,Direct,Display,Email,Paid Social,SEO",30
+"Brand Marketing,Display,Other,Paid Social,SEM,Youtube",27
+"Brand Marketing,Display,Other,Paid Social,SEO,Youtube",53
+"Brand Marketing,Direct,Display,Other,Paid Social,Youtube",13
+"Brand Marketing,Display,Other,Paid Social,SEM,SEO",1
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM",74
+"Brand Marketing,Direct,Display,Other,Paid Social,SEO",46
+"Brand Marketing,Display,Paid Social,SEM,SEO,Youtube",34
+"Brand Marketing,Direct,Display,Paid Social,SEM,Youtube",71
+"Brand Marketing,Direct,Display,Paid Social,SEO,Youtube",93
+"Brand Marketing,Direct,Display,Paid Social,SEM,SEO",38
+"Display,Email,Other,Paid Social,SEM,Youtube",98
+"Display,Email,Other,Paid Social,SEO,Youtube",69
+"Direct,Display,Email,Other,Paid Social,Youtube",8
+"Display,Email,Other,Paid Social,SEM,SEO",21
+"Direct,Display,Email,Other,Paid Social,SEM",91
+"Direct,Display,Email,Other,Paid Social,SEO",65
+"Display,Email,Paid Social,SEM,SEO,Youtube",54
+"Direct,Display,Email,Paid Social,SEM,Youtube",78
+"Direct,Display,Email,Paid Social,SEO,Youtube",47
+"Direct,Display,Email,Paid Social,SEM,SEO",51
+"Display,Other,Paid Social,SEM,SEO,Youtube",98
+"Direct,Display,Other,Paid Social,SEM,Youtube",55
+"Direct,Display,Other,Paid Social,SEO,Youtube",43
+"Direct,Display,Other,Paid Social,SEM,SEO",94
+"Direct,Display,Paid Social,SEM,SEO,Youtube",99
+"Brand Marketing,Display,Email,Other,Unpaid Social,Youtube",92
+"Brand Marketing,Display,Email,Other,SEM,Unpaid Social",25
+"Brand Marketing,Display,Email,Other,SEO,Unpaid Social",28
+"Brand Marketing,Direct,Display,Email,Other,Unpaid Social",72
+"Brand Marketing,Display,Email,SEM,Unpaid Social,Youtube",75
+"Brand Marketing,Display,Email,SEO,Unpaid Social,Youtube",7
+"Brand Marketing,Direct,Display,Email,Unpaid Social,Youtube",59
+"Brand Marketing,Display,Email,SEM,SEO,Unpaid Social",86
+"Brand Marketing,Direct,Display,Email,SEM,Unpaid Social",54
+"Brand Marketing,Direct,Display,Email,SEO,Unpaid Social",22
+"Brand Marketing,Display,Other,SEM,Unpaid Social,Youtube",83
+"Brand Marketing,Display,Other,SEO,Unpaid Social,Youtube",87
+"Brand Marketing,Direct,Display,Other,Unpaid Social,Youtube",32
+"Brand Marketing,Display,Other,SEM,SEO,Unpaid Social",3
+"Brand Marketing,Direct,Display,Other,SEM,Unpaid Social",72
+"Brand Marketing,Direct,Display,Other,SEO,Unpaid Social",85
+"Brand Marketing,Display,SEM,SEO,Unpaid Social,Youtube",9
+"Brand Marketing,Direct,Display,SEM,Unpaid Social,Youtube",32
+"Brand Marketing,Direct,Display,SEO,Unpaid Social,Youtube",49
+"Brand Marketing,Direct,Display,SEM,SEO,Unpaid Social",18
+"Display,Email,Other,SEM,Unpaid Social,Youtube",57
+"Display,Email,Other,SEO,Unpaid Social,Youtube",11
+"Direct,Display,Email,Other,Unpaid Social,Youtube",86
+"Display,Email,Other,SEM,SEO,Unpaid Social",58
+"Direct,Display,Email,Other,SEM,Unpaid Social",74
+"Direct,Display,Email,Other,SEO,Unpaid Social",72
+"Display,Email,SEM,SEO,Unpaid Social,Youtube",52
+"Direct,Display,Email,SEM,Unpaid Social,Youtube",41
+"Direct,Display,Email,SEO,Unpaid Social,Youtube",83
+"Direct,Display,Email,SEM,SEO,Unpaid Social",52
+"Display,Other,SEM,SEO,Unpaid Social,Youtube",86
+"Direct,Display,Other,SEM,Unpaid Social,Youtube",3
+"Direct,Display,Other,SEO,Unpaid Social,Youtube",90
+"Direct,Display,Other,SEM,SEO,Unpaid Social",86
+"Direct,Display,SEM,SEO,Unpaid Social,Youtube",46
+"Brand Marketing,Display,Email,Other,SEM,Youtube",29
+"Brand Marketing,Display,Email,Other,SEO,Youtube",4
+"Brand Marketing,Direct,Display,Email,Other,Youtube",20
+"Brand Marketing,Display,Email,Other,SEM,SEO",37
+"Brand Marketing,Direct,Display,Email,Other,SEM",80
+"Brand Marketing,Direct,Display,Email,Other,SEO",62
+"Brand Marketing,Display,Email,SEM,SEO,Youtube",83
+"Brand Marketing,Direct,Display,Email,SEM,Youtube",22
+"Brand Marketing,Direct,Display,Email,SEO,Youtube",14
+"Brand Marketing,Direct,Display,Email,SEM,SEO",66
+"Brand Marketing,Display,Other,SEM,SEO,Youtube",64
+"Brand Marketing,Direct,Display,Other,SEM,Youtube",90
+"Brand Marketing,Direct,Display,Other,SEO,Youtube",52
+"Brand Marketing,Direct,Display,Other,SEM,SEO",76
+"Brand Marketing,Direct,Display,SEM,SEO,Youtube",66
+"Display,Email,Other,SEM,SEO,Youtube",50
+"Direct,Display,Email,Other,SEM,Youtube",37
+"Direct,Display,Email,Other,SEO,Youtube",91
+"Direct,Display,Email,Other,SEM,SEO",98
+"Direct,Display,Email,SEM,SEO,Youtube",38
+"Direct,Display,Other,SEM,SEO,Youtube",32
+"Brand Marketing,Email,Other,Paid Social,Referral,Unpaid Social",46
+"Brand Marketing,Email,Paid Social,Referral,Unpaid Social,Youtube",66
+"Brand Marketing,Email,Paid Social,Referral,SEM,Unpaid Social",15
+"Brand Marketing,Email,Paid Social,Referral,SEO,Unpaid Social",9
+"Brand Marketing,Direct,Email,Paid Social,Referral,Unpaid Social",43
+"Brand Marketing,Other,Paid Social,Referral,Unpaid Social,Youtube",65
+"Brand Marketing,Other,Paid Social,Referral,SEM,Unpaid Social",77
+"Brand Marketing,Other,Paid Social,Referral,SEO,Unpaid Social",49
+"Brand Marketing,Direct,Other,Paid Social,Referral,Unpaid Social",61
+"Brand Marketing,Paid Social,Referral,SEM,Unpaid Social,Youtube",13
+"Brand Marketing,Paid Social,Referral,SEO,Unpaid Social,Youtube",11
+"Brand Marketing,Direct,Paid Social,Referral,Unpaid Social,Youtube",10
+"Brand Marketing,Paid Social,Referral,SEM,SEO,Unpaid Social",24
+"Brand Marketing,Direct,Paid Social,Referral,SEM,Unpaid Social",74
+"Brand Marketing,Direct,Paid Social,Referral,SEO,Unpaid Social",79
+"Email,Other,Paid Social,Referral,Unpaid Social,Youtube",36
+"Email,Other,Paid Social,Referral,SEM,Unpaid Social",62
+"Email,Other,Paid Social,Referral,SEO,Unpaid Social",66
+"Direct,Email,Other,Paid Social,Referral,Unpaid Social",23
+"Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",42
+"Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",90
+"Direct,Email,Paid Social,Referral,Unpaid Social,Youtube",54
+"Email,Paid Social,Referral,SEM,SEO,Unpaid Social",99
+"Direct,Email,Paid Social,Referral,SEM,Unpaid Social",33
+"Direct,Email,Paid Social,Referral,SEO,Unpaid Social",43
+"Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",7
+"Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",97
+"Direct,Other,Paid Social,Referral,Unpaid Social,Youtube",18
+"Other,Paid Social,Referral,SEM,SEO,Unpaid Social",84
+"Direct,Other,Paid Social,Referral,SEM,Unpaid Social",31
+"Direct,Other,Paid Social,Referral,SEO,Unpaid Social",63
+"Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",40
+"Direct,Paid Social,Referral,SEM,Unpaid Social,Youtube",34
+"Direct,Paid Social,Referral,SEO,Unpaid Social,Youtube",82
+"Direct,Paid Social,Referral,SEM,SEO,Unpaid Social",51
+"Brand Marketing,Email,Other,Paid Social,Referral,Youtube",9
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM",12
+"Brand Marketing,Email,Other,Paid Social,Referral,SEO",48
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral",32
+"Brand Marketing,Email,Paid Social,Referral,SEM,Youtube",93
+"Brand Marketing,Email,Paid Social,Referral,SEO,Youtube",69
+"Brand Marketing,Direct,Email,Paid Social,Referral,Youtube",90
+"Brand Marketing,Email,Paid Social,Referral,SEM,SEO",22
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM",39
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEO",28
+"Brand Marketing,Other,Paid Social,Referral,SEM,Youtube",85
+"Brand Marketing,Other,Paid Social,Referral,SEO,Youtube",16
+"Brand Marketing,Direct,Other,Paid Social,Referral,Youtube",56
+"Brand Marketing,Other,Paid Social,Referral,SEM,SEO",87
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM",15
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEO",30
+"Brand Marketing,Paid Social,Referral,SEM,SEO,Youtube",78
+"Brand Marketing,Direct,Paid Social,Referral,SEM,Youtube",36
+"Brand Marketing,Direct,Paid Social,Referral,SEO,Youtube",99
+"Brand Marketing,Direct,Paid Social,Referral,SEM,SEO",54
+"Email,Other,Paid Social,Referral,SEM,Youtube",45
+"Email,Other,Paid Social,Referral,SEO,Youtube",65
+"Direct,Email,Other,Paid Social,Referral,Youtube",52
+"Email,Other,Paid Social,Referral,SEM,SEO",35
+"Direct,Email,Other,Paid Social,Referral,SEM",82
+"Direct,Email,Other,Paid Social,Referral,SEO",9
+"Email,Paid Social,Referral,SEM,SEO,Youtube",87
+"Direct,Email,Paid Social,Referral,SEM,Youtube",50
+"Direct,Email,Paid Social,Referral,SEO,Youtube",74
+"Direct,Email,Paid Social,Referral,SEM,SEO",40
+"Other,Paid Social,Referral,SEM,SEO,Youtube",48
+"Direct,Other,Paid Social,Referral,SEM,Youtube",59
+"Direct,Other,Paid Social,Referral,SEO,Youtube",69
+"Direct,Other,Paid Social,Referral,SEM,SEO",7
+"Direct,Paid Social,Referral,SEM,SEO,Youtube",22
+"Brand Marketing,Email,Other,Referral,Unpaid Social,Youtube",79
+"Brand Marketing,Email,Other,Referral,SEM,Unpaid Social",24
+"Brand Marketing,Email,Other,Referral,SEO,Unpaid Social",7
+"Brand Marketing,Direct,Email,Other,Referral,Unpaid Social",4
+"Brand Marketing,Email,Referral,SEM,Unpaid Social,Youtube",16
+"Brand Marketing,Email,Referral,SEO,Unpaid Social,Youtube",37
+"Brand Marketing,Direct,Email,Referral,Unpaid Social,Youtube",4
+"Brand Marketing,Email,Referral,SEM,SEO,Unpaid Social",80
+"Brand Marketing,Direct,Email,Referral,SEM,Unpaid Social",17
+"Brand Marketing,Direct,Email,Referral,SEO,Unpaid Social",29
+"Brand Marketing,Other,Referral,SEM,Unpaid Social,Youtube",92
+"Brand Marketing,Other,Referral,SEO,Unpaid Social,Youtube",19
+"Brand Marketing,Direct,Other,Referral,Unpaid Social,Youtube",62
+"Brand Marketing,Other,Referral,SEM,SEO,Unpaid Social",93
+"Brand Marketing,Direct,Other,Referral,SEM,Unpaid Social",70
+"Brand Marketing,Direct,Other,Referral,SEO,Unpaid Social",86
+"Brand Marketing,Referral,SEM,SEO,Unpaid Social,Youtube",6
+"Brand Marketing,Direct,Referral,SEM,Unpaid Social,Youtube",70
+"Brand Marketing,Direct,Referral,SEO,Unpaid Social,Youtube",69
+"Brand Marketing,Direct,Referral,SEM,SEO,Unpaid Social",48
+"Email,Other,Referral,SEM,Unpaid Social,Youtube",2
+"Email,Other,Referral,SEO,Unpaid Social,Youtube",62
+"Direct,Email,Other,Referral,Unpaid Social,Youtube",64
+"Email,Other,Referral,SEM,SEO,Unpaid Social",62
+"Direct,Email,Other,Referral,SEM,Unpaid Social",79
+"Direct,Email,Other,Referral,SEO,Unpaid Social",11
+"Email,Referral,SEM,SEO,Unpaid Social,Youtube",25
+"Direct,Email,Referral,SEM,Unpaid Social,Youtube",76
+"Direct,Email,Referral,SEO,Unpaid Social,Youtube",92
+"Direct,Email,Referral,SEM,SEO,Unpaid Social",1
+"Other,Referral,SEM,SEO,Unpaid Social,Youtube",67
+"Direct,Other,Referral,SEM,Unpaid Social,Youtube",33
+"Direct,Other,Referral,SEO,Unpaid Social,Youtube",17
+"Direct,Other,Referral,SEM,SEO,Unpaid Social",86
+"Direct,Referral,SEM,SEO,Unpaid Social,Youtube",81
+"Brand Marketing,Email,Other,Referral,SEM,Youtube",44
+"Brand Marketing,Email,Other,Referral,SEO,Youtube",20
+"Brand Marketing,Direct,Email,Other,Referral,Youtube",34
+"Brand Marketing,Email,Other,Referral,SEM,SEO",34
+"Brand Marketing,Direct,Email,Other,Referral,SEM",10
+"Brand Marketing,Direct,Email,Other,Referral,SEO",95
+"Brand Marketing,Email,Referral,SEM,SEO,Youtube",66
+"Brand Marketing,Direct,Email,Referral,SEM,Youtube",59
+"Brand Marketing,Direct,Email,Referral,SEO,Youtube",39
+"Brand Marketing,Direct,Email,Referral,SEM,SEO",16
+"Brand Marketing,Other,Referral,SEM,SEO,Youtube",30
+"Brand Marketing,Direct,Other,Referral,SEM,Youtube",37
+"Brand Marketing,Direct,Other,Referral,SEO,Youtube",23
+"Brand Marketing,Direct,Other,Referral,SEM,SEO",3
+"Brand Marketing,Direct,Referral,SEM,SEO,Youtube",36
+"Email,Other,Referral,SEM,SEO,Youtube",93
+"Direct,Email,Other,Referral,SEM,Youtube",30
+"Direct,Email,Other,Referral,SEO,Youtube",85
+"Direct,Email,Other,Referral,SEM,SEO",91
+"Direct,Email,Referral,SEM,SEO,Youtube",4
+"Direct,Other,Referral,SEM,SEO,Youtube",88
+"Brand Marketing,Email,Other,Paid Social,Unpaid Social,Youtube",56
+"Brand Marketing,Email,Other,Paid Social,SEM,Unpaid Social",63
+"Brand Marketing,Email,Other,Paid Social,SEO,Unpaid Social",57
+"Brand Marketing,Direct,Email,Other,Paid Social,Unpaid Social",6
+"Brand Marketing,Email,Paid Social,SEM,Unpaid Social,Youtube",3
+"Brand Marketing,Email,Paid Social,SEO,Unpaid Social,Youtube",49
+"Brand Marketing,Direct,Email,Paid Social,Unpaid Social,Youtube",68
+"Brand Marketing,Email,Paid Social,SEM,SEO,Unpaid Social",14
+"Brand Marketing,Direct,Email,Paid Social,SEM,Unpaid Social",17
+"Brand Marketing,Direct,Email,Paid Social,SEO,Unpaid Social",0
+"Brand Marketing,Other,Paid Social,SEM,Unpaid Social,Youtube",4
+"Brand Marketing,Other,Paid Social,SEO,Unpaid Social,Youtube",45
+"Brand Marketing,Direct,Other,Paid Social,Unpaid Social,Youtube",60
+"Brand Marketing,Other,Paid Social,SEM,SEO,Unpaid Social",20
+"Brand Marketing,Direct,Other,Paid Social,SEM,Unpaid Social",59
+"Brand Marketing,Direct,Other,Paid Social,SEO,Unpaid Social",55
+"Brand Marketing,Paid Social,SEM,SEO,Unpaid Social,Youtube",77
+"Brand Marketing,Direct,Paid Social,SEM,Unpaid Social,Youtube",55
+"Brand Marketing,Direct,Paid Social,SEO,Unpaid Social,Youtube",59
+"Brand Marketing,Direct,Paid Social,SEM,SEO,Unpaid Social",76
+"Email,Other,Paid Social,SEM,Unpaid Social,Youtube",20
+"Email,Other,Paid Social,SEO,Unpaid Social,Youtube",7
+"Direct,Email,Other,Paid Social,Unpaid Social,Youtube",15
+"Email,Other,Paid Social,SEM,SEO,Unpaid Social",8
+"Direct,Email,Other,Paid Social,SEM,Unpaid Social",13
+"Direct,Email,Other,Paid Social,SEO,Unpaid Social",93
+"Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",41
+"Direct,Email,Paid Social,SEM,Unpaid Social,Youtube",36
+"Direct,Email,Paid Social,SEO,Unpaid Social,Youtube",44
+"Direct,Email,Paid Social,SEM,SEO,Unpaid Social",5
+"Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",46
+"Direct,Other,Paid Social,SEM,Unpaid Social,Youtube",76
+"Direct,Other,Paid Social,SEO,Unpaid Social,Youtube",64
+"Direct,Other,Paid Social,SEM,SEO,Unpaid Social",12
+"Direct,Paid Social,SEM,SEO,Unpaid Social,Youtube",91
+"Brand Marketing,Email,Other,Paid Social,SEM,Youtube",25
+"Brand Marketing,Email,Other,Paid Social,SEO,Youtube",52
+"Brand Marketing,Direct,Email,Other,Paid Social,Youtube",81
+"Brand Marketing,Email,Other,Paid Social,SEM,SEO",73
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM",56
+"Brand Marketing,Direct,Email,Other,Paid Social,SEO",84
+"Brand Marketing,Email,Paid Social,SEM,SEO,Youtube",55
+"Brand Marketing,Direct,Email,Paid Social,SEM,Youtube",28
+"Brand Marketing,Direct,Email,Paid Social,SEO,Youtube",77
+"Brand Marketing,Direct,Email,Paid Social,SEM,SEO",54
+"Brand Marketing,Other,Paid Social,SEM,SEO,Youtube",78
+"Brand Marketing,Direct,Other,Paid Social,SEM,Youtube",42
+"Brand Marketing,Direct,Other,Paid Social,SEO,Youtube",40
+"Brand Marketing,Direct,Other,Paid Social,SEM,SEO",6
+"Brand Marketing,Direct,Paid Social,SEM,SEO,Youtube",60
+"Email,Other,Paid Social,SEM,SEO,Youtube",44
+"Direct,Email,Other,Paid Social,SEM,Youtube",95
+"Direct,Email,Other,Paid Social,SEO,Youtube",65
+"Direct,Email,Other,Paid Social,SEM,SEO",13
+"Direct,Email,Paid Social,SEM,SEO,Youtube",63
+"Direct,Other,Paid Social,SEM,SEO,Youtube",55
+"Brand Marketing,Email,Other,SEM,Unpaid Social,Youtube",68
+"Brand Marketing,Email,Other,SEO,Unpaid Social,Youtube",65
+"Brand Marketing,Direct,Email,Other,Unpaid Social,Youtube",25
+"Brand Marketing,Email,Other,SEM,SEO,Unpaid Social",73
+"Brand Marketing,Direct,Email,Other,SEM,Unpaid Social",38
+"Brand Marketing,Direct,Email,Other,SEO,Unpaid Social",35
+"Brand Marketing,Email,SEM,SEO,Unpaid Social,Youtube",58
+"Brand Marketing,Direct,Email,SEM,Unpaid Social,Youtube",89
+"Brand Marketing,Direct,Email,SEO,Unpaid Social,Youtube",68
+"Brand Marketing,Direct,Email,SEM,SEO,Unpaid Social",37
+"Brand Marketing,Other,SEM,SEO,Unpaid Social,Youtube",39
+"Brand Marketing,Direct,Other,SEM,Unpaid Social,Youtube",90
+"Brand Marketing,Direct,Other,SEO,Unpaid Social,Youtube",5
+"Brand Marketing,Direct,Other,SEM,SEO,Unpaid Social",48
+"Brand Marketing,Direct,SEM,SEO,Unpaid Social,Youtube",23
+"Email,Other,SEM,SEO,Unpaid Social,Youtube",43
+"Direct,Email,Other,SEM,Unpaid Social,Youtube",95
+"Direct,Email,Other,SEO,Unpaid Social,Youtube",36
+"Direct,Email,Other,SEM,SEO,Unpaid Social",72
+"Direct,Email,SEM,SEO,Unpaid Social,Youtube",8
+"Direct,Other,SEM,SEO,Unpaid Social,Youtube",67
+"Brand Marketing,Email,Other,SEM,SEO,Youtube",39
+"Brand Marketing,Direct,Email,Other,SEM,Youtube",96
+"Brand Marketing,Direct,Email,Other,SEO,Youtube",10
+"Brand Marketing,Direct,Email,Other,SEM,SEO",26
+"Brand Marketing,Direct,Email,SEM,SEO,Youtube",37
+"Brand Marketing,Direct,Other,SEM,SEO,Youtube",85
+"Direct,Email,Other,SEM,SEO,Youtube",66
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,Unpaid Social",93
+"Brand Marketing,Display,Email,Paid Social,Referral,Unpaid Social,Youtube",49
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,Unpaid Social",55
+"Brand Marketing,Display,Email,Paid Social,Referral,SEO,Unpaid Social",52
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,Unpaid Social",24
+"Brand Marketing,Display,Other,Paid Social,Referral,Unpaid Social,Youtube",48
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,Unpaid Social",49
+"Brand Marketing,Display,Other,Paid Social,Referral,SEO,Unpaid Social",18
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,Unpaid Social",16
+"Brand Marketing,Display,Paid Social,Referral,SEM,Unpaid Social,Youtube",85
+"Brand Marketing,Display,Paid Social,Referral,SEO,Unpaid Social,Youtube",67
+"Brand Marketing,Direct,Display,Paid Social,Referral,Unpaid Social,Youtube",61
+"Brand Marketing,Display,Paid Social,Referral,SEM,SEO,Unpaid Social",80
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,Unpaid Social",83
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEO,Unpaid Social",33
+"Display,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",72
+"Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social",44
+"Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social",96
+"Direct,Display,Email,Other,Paid Social,Referral,Unpaid Social",28
+"Display,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",49
+"Display,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",74
+"Direct,Display,Email,Paid Social,Referral,Unpaid Social,Youtube",48
+"Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",97
+"Direct,Display,Email,Paid Social,Referral,SEM,Unpaid Social",38
+"Direct,Display,Email,Paid Social,Referral,SEO,Unpaid Social",51
+"Display,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",57
+"Display,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",51
+"Direct,Display,Other,Paid Social,Referral,Unpaid Social,Youtube",30
+"Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",79
+"Direct,Display,Other,Paid Social,Referral,SEM,Unpaid Social",43
+"Direct,Display,Other,Paid Social,Referral,SEO,Unpaid Social",86
+"Display,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",44
+"Direct,Display,Paid Social,Referral,SEM,Unpaid Social,Youtube",89
+"Direct,Display,Paid Social,Referral,SEO,Unpaid Social,Youtube",14
+"Direct,Display,Paid Social,Referral,SEM,SEO,Unpaid Social",87
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,Youtube",26
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM",41
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEO",68
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral",12
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,Youtube",18
+"Brand Marketing,Display,Email,Paid Social,Referral,SEO,Youtube",66
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,Youtube",64
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,SEO",41
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM",44
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEO",19
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,Youtube",26
+"Brand Marketing,Display,Other,Paid Social,Referral,SEO,Youtube",92
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,Youtube",79
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,SEO",53
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM",30
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEO",11
+"Brand Marketing,Display,Paid Social,Referral,SEM,SEO,Youtube",35
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,Youtube",69
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEO,Youtube",59
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,SEO",62
+"Display,Email,Other,Paid Social,Referral,SEM,Youtube",15
+"Display,Email,Other,Paid Social,Referral,SEO,Youtube",70
+"Direct,Display,Email,Other,Paid Social,Referral,Youtube",9
+"Display,Email,Other,Paid Social,Referral,SEM,SEO",62
+"Direct,Display,Email,Other,Paid Social,Referral,SEM",87
+"Direct,Display,Email,Other,Paid Social,Referral,SEO",4
+"Display,Email,Paid Social,Referral,SEM,SEO,Youtube",40
+"Direct,Display,Email,Paid Social,Referral,SEM,Youtube",87
+"Direct,Display,Email,Paid Social,Referral,SEO,Youtube",15
+"Direct,Display,Email,Paid Social,Referral,SEM,SEO",41
+"Display,Other,Paid Social,Referral,SEM,SEO,Youtube",11
+"Direct,Display,Other,Paid Social,Referral,SEM,Youtube",55
+"Direct,Display,Other,Paid Social,Referral,SEO,Youtube",87
+"Direct,Display,Other,Paid Social,Referral,SEM,SEO",33
+"Direct,Display,Paid Social,Referral,SEM,SEO,Youtube",25
+"Brand Marketing,Display,Email,Other,Referral,Unpaid Social,Youtube",69
+"Brand Marketing,Display,Email,Other,Referral,SEM,Unpaid Social",0
+"Brand Marketing,Display,Email,Other,Referral,SEO,Unpaid Social",72
+"Brand Marketing,Direct,Display,Email,Other,Referral,Unpaid Social",75
+"Brand Marketing,Display,Email,Referral,SEM,Unpaid Social,Youtube",95
+"Brand Marketing,Display,Email,Referral,SEO,Unpaid Social,Youtube",11
+"Brand Marketing,Direct,Display,Email,Referral,Unpaid Social,Youtube",28
+"Brand Marketing,Display,Email,Referral,SEM,SEO,Unpaid Social",18
+"Brand Marketing,Direct,Display,Email,Referral,SEM,Unpaid Social",59
+"Brand Marketing,Direct,Display,Email,Referral,SEO,Unpaid Social",77
+"Brand Marketing,Display,Other,Referral,SEM,Unpaid Social,Youtube",21
+"Brand Marketing,Display,Other,Referral,SEO,Unpaid Social,Youtube",8
+"Brand Marketing,Direct,Display,Other,Referral,Unpaid Social,Youtube",1
+"Brand Marketing,Display,Other,Referral,SEM,SEO,Unpaid Social",6
+"Brand Marketing,Direct,Display,Other,Referral,SEM,Unpaid Social",72
+"Brand Marketing,Direct,Display,Other,Referral,SEO,Unpaid Social",30
+"Brand Marketing,Display,Referral,SEM,SEO,Unpaid Social,Youtube",37
+"Brand Marketing,Direct,Display,Referral,SEM,Unpaid Social,Youtube",31
+"Brand Marketing,Direct,Display,Referral,SEO,Unpaid Social,Youtube",52
+"Brand Marketing,Direct,Display,Referral,SEM,SEO,Unpaid Social",70
+"Display,Email,Other,Referral,SEM,Unpaid Social,Youtube",41
+"Display,Email,Other,Referral,SEO,Unpaid Social,Youtube",68
+"Direct,Display,Email,Other,Referral,Unpaid Social,Youtube",66
+"Display,Email,Other,Referral,SEM,SEO,Unpaid Social",87
+"Direct,Display,Email,Other,Referral,SEM,Unpaid Social",0
+"Direct,Display,Email,Other,Referral,SEO,Unpaid Social",74
+"Display,Email,Referral,SEM,SEO,Unpaid Social,Youtube",69
+"Direct,Display,Email,Referral,SEM,Unpaid Social,Youtube",2
+"Direct,Display,Email,Referral,SEO,Unpaid Social,Youtube",67
+"Direct,Display,Email,Referral,SEM,SEO,Unpaid Social",3
+"Display,Other,Referral,SEM,SEO,Unpaid Social,Youtube",72
+"Direct,Display,Other,Referral,SEM,Unpaid Social,Youtube",47
+"Direct,Display,Other,Referral,SEO,Unpaid Social,Youtube",45
+"Direct,Display,Other,Referral,SEM,SEO,Unpaid Social",50
+"Direct,Display,Referral,SEM,SEO,Unpaid Social,Youtube",9
+"Brand Marketing,Display,Email,Other,Referral,SEM,Youtube",2
+"Brand Marketing,Display,Email,Other,Referral,SEO,Youtube",47
+"Brand Marketing,Direct,Display,Email,Other,Referral,Youtube",36
+"Brand Marketing,Display,Email,Other,Referral,SEM,SEO",20
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM",25
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEO",63
+"Brand Marketing,Display,Email,Referral,SEM,SEO,Youtube",22
+"Brand Marketing,Direct,Display,Email,Referral,SEM,Youtube",69
+"Brand Marketing,Direct,Display,Email,Referral,SEO,Youtube",56
+"Brand Marketing,Direct,Display,Email,Referral,SEM,SEO",94
+"Brand Marketing,Display,Other,Referral,SEM,SEO,Youtube",98
+"Brand Marketing,Direct,Display,Other,Referral,SEM,Youtube",89
+"Brand Marketing,Direct,Display,Other,Referral,SEO,Youtube",99
+"Brand Marketing,Direct,Display,Other,Referral,SEM,SEO",30
+"Brand Marketing,Direct,Display,Referral,SEM,SEO,Youtube",87
+"Display,Email,Other,Referral,SEM,SEO,Youtube",44
+"Direct,Display,Email,Other,Referral,SEM,Youtube",93
+"Direct,Display,Email,Other,Referral,SEO,Youtube",20
+"Direct,Display,Email,Other,Referral,SEM,SEO",69
+"Direct,Display,Email,Referral,SEM,SEO,Youtube",9
+"Direct,Display,Other,Referral,SEM,SEO,Youtube",3
+"Brand Marketing,Display,Email,Other,Paid Social,Unpaid Social,Youtube",54
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,Unpaid Social",34
+"Brand Marketing,Display,Email,Other,Paid Social,SEO,Unpaid Social",44
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Unpaid Social",78
+"Brand Marketing,Display,Email,Paid Social,SEM,Unpaid Social,Youtube",99
+"Brand Marketing,Display,Email,Paid Social,SEO,Unpaid Social,Youtube",14
+"Brand Marketing,Direct,Display,Email,Paid Social,Unpaid Social,Youtube",60
+"Brand Marketing,Display,Email,Paid Social,SEM,SEO,Unpaid Social",83
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,Unpaid Social",12
+"Brand Marketing,Direct,Display,Email,Paid Social,SEO,Unpaid Social",18
+"Brand Marketing,Display,Other,Paid Social,SEM,Unpaid Social,Youtube",55
+"Brand Marketing,Display,Other,Paid Social,SEO,Unpaid Social,Youtube",85
+"Brand Marketing,Direct,Display,Other,Paid Social,Unpaid Social,Youtube",12
+"Brand Marketing,Display,Other,Paid Social,SEM,SEO,Unpaid Social",28
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,Unpaid Social",33
+"Brand Marketing,Direct,Display,Other,Paid Social,SEO,Unpaid Social",14
+"Brand Marketing,Display,Paid Social,SEM,SEO,Unpaid Social,Youtube",63
+"Brand Marketing,Direct,Display,Paid Social,SEM,Unpaid Social,Youtube",75
+"Brand Marketing,Direct,Display,Paid Social,SEO,Unpaid Social,Youtube",12
+"Brand Marketing,Direct,Display,Paid Social,SEM,SEO,Unpaid Social",86
+"Display,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",58
+"Display,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",60
+"Direct,Display,Email,Other,Paid Social,Unpaid Social,Youtube",33
+"Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social",97
+"Direct,Display,Email,Other,Paid Social,SEM,Unpaid Social",32
+"Direct,Display,Email,Other,Paid Social,SEO,Unpaid Social",48
+"Display,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",66
+"Direct,Display,Email,Paid Social,SEM,Unpaid Social,Youtube",83
+"Direct,Display,Email,Paid Social,SEO,Unpaid Social,Youtube",90
+"Direct,Display,Email,Paid Social,SEM,SEO,Unpaid Social",53
+"Display,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",36
+"Direct,Display,Other,Paid Social,SEM,Unpaid Social,Youtube",99
+"Direct,Display,Other,Paid Social,SEO,Unpaid Social,Youtube",48
+"Direct,Display,Other,Paid Social,SEM,SEO,Unpaid Social",22
+"Direct,Display,Paid Social,SEM,SEO,Unpaid Social,Youtube",47
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,Youtube",90
+"Brand Marketing,Display,Email,Other,Paid Social,SEO,Youtube",35
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Youtube",27
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,SEO",47
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM",78
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEO",4
+"Brand Marketing,Display,Email,Paid Social,SEM,SEO,Youtube",79
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,Youtube",77
+"Brand Marketing,Direct,Display,Email,Paid Social,SEO,Youtube",66
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,SEO",9
+"Brand Marketing,Display,Other,Paid Social,SEM,SEO,Youtube",32
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,Youtube",94
+"Brand Marketing,Direct,Display,Other,Paid Social,SEO,Youtube",37
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,SEO",4
+"Brand Marketing,Direct,Display,Paid Social,SEM,SEO,Youtube",26
+"Display,Email,Other,Paid Social,SEM,SEO,Youtube",11
+"Direct,Display,Email,Other,Paid Social,SEM,Youtube",22
+"Direct,Display,Email,Other,Paid Social,SEO,Youtube",16
+"Direct,Display,Email,Other,Paid Social,SEM,SEO",15
+"Direct,Display,Email,Paid Social,SEM,SEO,Youtube",73
+"Direct,Display,Other,Paid Social,SEM,SEO,Youtube",72
+"Brand Marketing,Display,Email,Other,SEM,Unpaid Social,Youtube",97
+"Brand Marketing,Display,Email,Other,SEO,Unpaid Social,Youtube",66
+"Brand Marketing,Direct,Display,Email,Other,Unpaid Social,Youtube",46
+"Brand Marketing,Display,Email,Other,SEM,SEO,Unpaid Social",2
+"Brand Marketing,Direct,Display,Email,Other,SEM,Unpaid Social",18
+"Brand Marketing,Direct,Display,Email,Other,SEO,Unpaid Social",50
+"Brand Marketing,Display,Email,SEM,SEO,Unpaid Social,Youtube",17
+"Brand Marketing,Direct,Display,Email,SEM,Unpaid Social,Youtube",50
+"Brand Marketing,Direct,Display,Email,SEO,Unpaid Social,Youtube",84
+"Brand Marketing,Direct,Display,Email,SEM,SEO,Unpaid Social",74
+"Brand Marketing,Display,Other,SEM,SEO,Unpaid Social,Youtube",25
+"Brand Marketing,Direct,Display,Other,SEM,Unpaid Social,Youtube",83
+"Brand Marketing,Direct,Display,Other,SEO,Unpaid Social,Youtube",32
+"Brand Marketing,Direct,Display,Other,SEM,SEO,Unpaid Social",28
+"Brand Marketing,Direct,Display,SEM,SEO,Unpaid Social,Youtube",53
+"Display,Email,Other,SEM,SEO,Unpaid Social,Youtube",25
+"Direct,Display,Email,Other,SEM,Unpaid Social,Youtube",26
+"Direct,Display,Email,Other,SEO,Unpaid Social,Youtube",65
+"Direct,Display,Email,Other,SEM,SEO,Unpaid Social",4
+"Direct,Display,Email,SEM,SEO,Unpaid Social,Youtube",73
+"Direct,Display,Other,SEM,SEO,Unpaid Social,Youtube",34
+"Brand Marketing,Display,Email,Other,SEM,SEO,Youtube",27
+"Brand Marketing,Direct,Display,Email,Other,SEM,Youtube",49
+"Brand Marketing,Direct,Display,Email,Other,SEO,Youtube",57
+"Brand Marketing,Direct,Display,Email,Other,SEM,SEO",66
+"Brand Marketing,Direct,Display,Email,SEM,SEO,Youtube",12
+"Brand Marketing,Direct,Display,Other,SEM,SEO,Youtube",63
+"Direct,Display,Email,Other,SEM,SEO,Youtube",42
+"Brand Marketing,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",15
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,Unpaid Social",47
+"Brand Marketing,Email,Other,Paid Social,Referral,SEO,Unpaid Social",35
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,Unpaid Social",90
+"Brand Marketing,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",66
+"Brand Marketing,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",43
+"Brand Marketing,Direct,Email,Paid Social,Referral,Unpaid Social,Youtube",17
+"Brand Marketing,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",87
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,Unpaid Social",54
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEO,Unpaid Social",68
+"Brand Marketing,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",64
+"Brand Marketing,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",15
+"Brand Marketing,Direct,Other,Paid Social,Referral,Unpaid Social,Youtube",31
+"Brand Marketing,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",33
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,Unpaid Social",87
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEO,Unpaid Social",59
+"Brand Marketing,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",25
+"Brand Marketing,Direct,Paid Social,Referral,SEM,Unpaid Social,Youtube",28
+"Brand Marketing,Direct,Paid Social,Referral,SEO,Unpaid Social,Youtube",85
+"Brand Marketing,Direct,Paid Social,Referral,SEM,SEO,Unpaid Social",36
+"Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",40
+"Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",31
+"Direct,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",80
+"Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",83
+"Direct,Email,Other,Paid Social,Referral,SEM,Unpaid Social",37
+"Direct,Email,Other,Paid Social,Referral,SEO,Unpaid Social",25
+"Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",84
+"Direct,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",43
+"Direct,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",88
+"Direct,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",99
+"Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",9
+"Direct,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",49
+"Direct,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",96
+"Direct,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",29
+"Direct,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",58
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,Youtube",88
+"Brand Marketing,Email,Other,Paid Social,Referral,SEO,Youtube",0
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,Youtube",79
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,SEO",86
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM",89
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEO",32
+"Brand Marketing,Email,Paid Social,Referral,SEM,SEO,Youtube",12
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,Youtube",83
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEO,Youtube",23
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,SEO",27
+"Brand Marketing,Other,Paid Social,Referral,SEM,SEO,Youtube",92
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,Youtube",57
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEO,Youtube",18
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,SEO",55
+"Brand Marketing,Direct,Paid Social,Referral,SEM,SEO,Youtube",59
+"Email,Other,Paid Social,Referral,SEM,SEO,Youtube",51
+"Direct,Email,Other,Paid Social,Referral,SEM,Youtube",97
+"Direct,Email,Other,Paid Social,Referral,SEO,Youtube",98
+"Direct,Email,Other,Paid Social,Referral,SEM,SEO",67
+"Direct,Email,Paid Social,Referral,SEM,SEO,Youtube",39
+"Direct,Other,Paid Social,Referral,SEM,SEO,Youtube",28
+"Brand Marketing,Email,Other,Referral,SEM,Unpaid Social,Youtube",83
+"Brand Marketing,Email,Other,Referral,SEO,Unpaid Social,Youtube",29
+"Brand Marketing,Direct,Email,Other,Referral,Unpaid Social,Youtube",0
+"Brand Marketing,Email,Other,Referral,SEM,SEO,Unpaid Social",31
+"Brand Marketing,Direct,Email,Other,Referral,SEM,Unpaid Social",48
+"Brand Marketing,Direct,Email,Other,Referral,SEO,Unpaid Social",9
+"Brand Marketing,Email,Referral,SEM,SEO,Unpaid Social,Youtube",84
+"Brand Marketing,Direct,Email,Referral,SEM,Unpaid Social,Youtube",92
+"Brand Marketing,Direct,Email,Referral,SEO,Unpaid Social,Youtube",64
+"Brand Marketing,Direct,Email,Referral,SEM,SEO,Unpaid Social",2
+"Brand Marketing,Other,Referral,SEM,SEO,Unpaid Social,Youtube",88
+"Brand Marketing,Direct,Other,Referral,SEM,Unpaid Social,Youtube",46
+"Brand Marketing,Direct,Other,Referral,SEO,Unpaid Social,Youtube",51
+"Brand Marketing,Direct,Other,Referral,SEM,SEO,Unpaid Social",66
+"Brand Marketing,Direct,Referral,SEM,SEO,Unpaid Social,Youtube",53
+"Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",52
+"Direct,Email,Other,Referral,SEM,Unpaid Social,Youtube",30
+"Direct,Email,Other,Referral,SEO,Unpaid Social,Youtube",10
+"Direct,Email,Other,Referral,SEM,SEO,Unpaid Social",36
+"Direct,Email,Referral,SEM,SEO,Unpaid Social,Youtube",50
+"Direct,Other,Referral,SEM,SEO,Unpaid Social,Youtube",34
+"Brand Marketing,Email,Other,Referral,SEM,SEO,Youtube",62
+"Brand Marketing,Direct,Email,Other,Referral,SEM,Youtube",16
+"Brand Marketing,Direct,Email,Other,Referral,SEO,Youtube",98
+"Brand Marketing,Direct,Email,Other,Referral,SEM,SEO",81
+"Brand Marketing,Direct,Email,Referral,SEM,SEO,Youtube",37
+"Brand Marketing,Direct,Other,Referral,SEM,SEO,Youtube",35
+"Direct,Email,Other,Referral,SEM,SEO,Youtube",30
+"Brand Marketing,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",46
+"Brand Marketing,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",1
+"Brand Marketing,Direct,Email,Other,Paid Social,Unpaid Social,Youtube",85
+"Brand Marketing,Email,Other,Paid Social,SEM,SEO,Unpaid Social",40
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,Unpaid Social",8
+"Brand Marketing,Direct,Email,Other,Paid Social,SEO,Unpaid Social",74
+"Brand Marketing,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",71
+"Brand Marketing,Direct,Email,Paid Social,SEM,Unpaid Social,Youtube",22
+"Brand Marketing,Direct,Email,Paid Social,SEO,Unpaid Social,Youtube",74
+"Brand Marketing,Direct,Email,Paid Social,SEM,SEO,Unpaid Social",25
+"Brand Marketing,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",67
+"Brand Marketing,Direct,Other,Paid Social,SEM,Unpaid Social,Youtube",62
+"Brand Marketing,Direct,Other,Paid Social,SEO,Unpaid Social,Youtube",10
+"Brand Marketing,Direct,Other,Paid Social,SEM,SEO,Unpaid Social",8
+"Brand Marketing,Direct,Paid Social,SEM,SEO,Unpaid Social,Youtube",43
+"Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",81
+"Direct,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",97
+"Direct,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",23
+"Direct,Email,Other,Paid Social,SEM,SEO,Unpaid Social",74
+"Direct,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",97
+"Direct,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",5
+"Brand Marketing,Email,Other,Paid Social,SEM,SEO,Youtube",68
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,Youtube",97
+"Brand Marketing,Direct,Email,Other,Paid Social,SEO,Youtube",37
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,SEO",61
+"Brand Marketing,Direct,Email,Paid Social,SEM,SEO,Youtube",66
+"Brand Marketing,Direct,Other,Paid Social,SEM,SEO,Youtube",18
+"Direct,Email,Other,Paid Social,SEM,SEO,Youtube",50
+"Brand Marketing,Email,Other,SEM,SEO,Unpaid Social,Youtube",81
+"Brand Marketing,Direct,Email,Other,SEM,Unpaid Social,Youtube",88
+"Brand Marketing,Direct,Email,Other,SEO,Unpaid Social,Youtube",67
+"Brand Marketing,Direct,Email,Other,SEM,SEO,Unpaid Social",47
+"Brand Marketing,Direct,Email,SEM,SEO,Unpaid Social,Youtube",69
+"Brand Marketing,Direct,Other,SEM,SEO,Unpaid Social,Youtube",71
+"Direct,Email,Other,SEM,SEO,Unpaid Social,Youtube",36
+"Brand Marketing,Direct,Email,Other,SEM,SEO,Youtube",96
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",61
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social",59
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social",23
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,Unpaid Social",31
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",45
+"Brand Marketing,Display,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",85
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,Unpaid Social,Youtube",72
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",29
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,Unpaid Social",24
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEO,Unpaid Social",16
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",94
+"Brand Marketing,Display,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",62
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,Unpaid Social,Youtube",56
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",90
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,Unpaid Social",44
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEO,Unpaid Social",42
+"Brand Marketing,Display,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",0
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,Unpaid Social,Youtube",20
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEO,Unpaid Social,Youtube",56
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,SEO,Unpaid Social",72
+"Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",72
+"Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",7
+"Direct,Display,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",54
+"Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",70
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social",76
+"Direct,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social",33
+"Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",42
+"Direct,Display,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",87
+"Direct,Display,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",47
+"Direct,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",48
+"Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",20
+"Direct,Display,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",6
+"Direct,Display,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",72
+"Direct,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",79
+"Direct,Display,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",12
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,Youtube",73
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEO,Youtube",8
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,Youtube",89
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,SEO",81
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM",94
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEO",30
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,SEO,Youtube",90
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,Youtube",4
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEO,Youtube",43
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,SEO",38
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,SEO,Youtube",22
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,Youtube",65
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEO,Youtube",82
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,SEO",3
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,SEO,Youtube",49
+"Display,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",84
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,Youtube",20
+"Direct,Display,Email,Other,Paid Social,Referral,SEO,Youtube",24
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO",90
+"Direct,Display,Email,Paid Social,Referral,SEM,SEO,Youtube",42
+"Direct,Display,Other,Paid Social,Referral,SEM,SEO,Youtube",35
+"Brand Marketing,Display,Email,Other,Referral,SEM,Unpaid Social,Youtube",4
+"Brand Marketing,Display,Email,Other,Referral,SEO,Unpaid Social,Youtube",79
+"Brand Marketing,Direct,Display,Email,Other,Referral,Unpaid Social,Youtube",52
+"Brand Marketing,Display,Email,Other,Referral,SEM,SEO,Unpaid Social",24
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,Unpaid Social",68
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEO,Unpaid Social",16
+"Brand Marketing,Display,Email,Referral,SEM,SEO,Unpaid Social,Youtube",75
+"Brand Marketing,Direct,Display,Email,Referral,SEM,Unpaid Social,Youtube",99
+"Brand Marketing,Direct,Display,Email,Referral,SEO,Unpaid Social,Youtube",79
+"Brand Marketing,Direct,Display,Email,Referral,SEM,SEO,Unpaid Social",68
+"Brand Marketing,Display,Other,Referral,SEM,SEO,Unpaid Social,Youtube",2
+"Brand Marketing,Direct,Display,Other,Referral,SEM,Unpaid Social,Youtube",54
+"Brand Marketing,Direct,Display,Other,Referral,SEO,Unpaid Social,Youtube",58
+"Brand Marketing,Direct,Display,Other,Referral,SEM,SEO,Unpaid Social",76
+"Brand Marketing,Direct,Display,Referral,SEM,SEO,Unpaid Social,Youtube",97
+"Display,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",17
+"Direct,Display,Email,Other,Referral,SEM,Unpaid Social,Youtube",8
+"Direct,Display,Email,Other,Referral,SEO,Unpaid Social,Youtube",19
+"Direct,Display,Email,Other,Referral,SEM,SEO,Unpaid Social",74
+"Direct,Display,Email,Referral,SEM,SEO,Unpaid Social,Youtube",93
+"Direct,Display,Other,Referral,SEM,SEO,Unpaid Social,Youtube",28
+"Brand Marketing,Display,Email,Other,Referral,SEM,SEO,Youtube",70
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,Youtube",99
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEO,Youtube",75
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,SEO",33
+"Brand Marketing,Direct,Display,Email,Referral,SEM,SEO,Youtube",2
+"Brand Marketing,Direct,Display,Other,Referral,SEM,SEO,Youtube",54
+"Direct,Display,Email,Other,Referral,SEM,SEO,Youtube",20
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",14
+"Brand Marketing,Display,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",42
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Unpaid Social,Youtube",40
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social",75
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,Unpaid Social",47
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEO,Unpaid Social",38
+"Brand Marketing,Display,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",66
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,Unpaid Social,Youtube",82
+"Brand Marketing,Direct,Display,Email,Paid Social,SEO,Unpaid Social,Youtube",32
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,SEO,Unpaid Social",15
+"Brand Marketing,Display,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",30
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,Unpaid Social,Youtube",10
+"Brand Marketing,Direct,Display,Other,Paid Social,SEO,Unpaid Social,Youtube",73
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,SEO,Unpaid Social",97
+"Brand Marketing,Direct,Display,Paid Social,SEM,SEO,Unpaid Social,Youtube",77
+"Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",93
+"Direct,Display,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",97
+"Direct,Display,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",27
+"Direct,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social",98
+"Direct,Display,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",16
+"Direct,Display,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",7
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,SEO,Youtube",42
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,Youtube",48
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEO,Youtube",97
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,SEO",47
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,SEO,Youtube",71
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,SEO,Youtube",14
+"Direct,Display,Email,Other,Paid Social,SEM,SEO,Youtube",28
+"Brand Marketing,Display,Email,Other,SEM,SEO,Unpaid Social,Youtube",86
+"Brand Marketing,Direct,Display,Email,Other,SEM,Unpaid Social,Youtube",50
+"Brand Marketing,Direct,Display,Email,Other,SEO,Unpaid Social,Youtube",0
+"Brand Marketing,Direct,Display,Email,Other,SEM,SEO,Unpaid Social",94
+"Brand Marketing,Direct,Display,Email,SEM,SEO,Unpaid Social,Youtube",29
+"Brand Marketing,Direct,Display,Other,SEM,SEO,Unpaid Social,Youtube",18
+"Direct,Display,Email,Other,SEM,SEO,Unpaid Social,Youtube",41
+"Brand Marketing,Direct,Display,Email,Other,SEM,SEO,Youtube",85
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",37
+"Brand Marketing,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",19
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",37
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",68
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,Unpaid Social",90
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEO,Unpaid Social",45
+"Brand Marketing,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",33
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",67
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",74
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",54
+"Brand Marketing,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",51
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",43
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",8
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",89
+"Brand Marketing,Direct,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",5
+"Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",51
+"Direct,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",23
+"Direct,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",1
+"Direct,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",7
+"Direct,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",45
+"Direct,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",14
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",99
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,Youtube",13
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEO,Youtube",58
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,SEO",95
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,SEO,Youtube",41
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,SEO,Youtube",12
+"Direct,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",77
+"Brand Marketing,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",95
+"Brand Marketing,Direct,Email,Other,Referral,SEM,Unpaid Social,Youtube",65
+"Brand Marketing,Direct,Email,Other,Referral,SEO,Unpaid Social,Youtube",57
+"Brand Marketing,Direct,Email,Other,Referral,SEM,SEO,Unpaid Social",14
+"Brand Marketing,Direct,Email,Referral,SEM,SEO,Unpaid Social,Youtube",38
+"Brand Marketing,Direct,Other,Referral,SEM,SEO,Unpaid Social,Youtube",98
+"Direct,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",20
+"Brand Marketing,Direct,Email,Other,Referral,SEM,SEO,Youtube",38
+"Brand Marketing,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",50
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",29
+"Brand Marketing,Direct,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",53
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,SEO,Unpaid Social",78
+"Brand Marketing,Direct,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",35
+"Brand Marketing,Direct,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",65
+"Direct,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",87
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,SEO,Youtube",7
+"Brand Marketing,Direct,Email,Other,SEM,SEO,Unpaid Social,Youtube",6
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",63
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",16
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,Unpaid Social,Youtube",72
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",90
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social",30
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social",0
+"Brand Marketing,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",41
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,Unpaid Social,Youtube",24
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEO,Unpaid Social,Youtube",58
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social",16
+"Brand Marketing,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",0
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",84
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",97
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",29
+"Brand Marketing,Direct,Display,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",3
+"Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",57
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",9
+"Direct,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",3
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",0
+"Direct,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",44
+"Direct,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",98
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",47
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,Youtube",47
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEO,Youtube",87
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO",33
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,SEO,Youtube",52
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,SEO,Youtube",82
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",30
+"Brand Marketing,Display,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",97
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,Unpaid Social,Youtube",10
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEO,Unpaid Social,Youtube",39
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,SEO,Unpaid Social",3
+"Brand Marketing,Direct,Display,Email,Referral,SEM,SEO,Unpaid Social,Youtube",21
+"Brand Marketing,Direct,Display,Other,Referral,SEM,SEO,Unpaid Social,Youtube",48
+"Direct,Display,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",50
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,SEO,Youtube",5
+"Brand Marketing,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",32
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,Unpaid Social,Youtube",21
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEO,Unpaid Social,Youtube",38
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social",29
+"Brand Marketing,Direct,Display,Email,Paid Social,SEM,SEO,Unpaid Social,Youtube",47
+"Brand Marketing,Direct,Display,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",17
+"Direct,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",94
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,SEO,Youtube",2
+"Brand Marketing,Direct,Display,Email,Other,SEM,SEO,Unpaid Social,Youtube",46
+"Brand Marketing,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",66
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",75
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",17
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",71
+"Brand Marketing,Direct,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",11
+"Brand Marketing,Direct,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",33
+"Direct,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",14
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",50
+"Brand Marketing,Direct,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",15
+"Brand Marketing,Direct,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",73
+"Brand Marketing,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",58
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,Unpaid Social,Youtube",35
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEO,Unpaid Social,Youtube",64
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social",49
+"Brand Marketing,Direct,Display,Email,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",18
+"Brand Marketing,Direct,Display,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",57
+"Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",14
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Youtube",74
+"Brand Marketing,Direct,Display,Email,Other,Referral,SEM,SEO,Unpaid Social,Youtube",71
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,SEM,SEO,Unpaid Social,Youtube",35
+"Brand Marketing,Direct,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",12
+"Brand Marketing,Direct,Display,Email,Other,Paid Social,Referral,SEM,SEO,Unpaid Social,Youtube",19
